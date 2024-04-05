@@ -1,294 +1,281 @@
-,id,color,size,width,brand_name,model_name,market_price,lenskart_price,classification,wishlistCount,purchaseCount,avgRating,totalNoOfRatings,offerName,qty,isCashbackApplicable
-0,217922,Electric Green,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,4796,0.0,,VCEYE,111,False
-1,148704,Blue Sky,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,7121,172539,4.6,309,LKSHARK,18831,False
-2,148702,Dark Night,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,7533,49635,4.6,309,VCEYE,6406,False
-3,208966,Greystone,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,26301,4.6,309,LKSHARK,6437,False
-4,208962,Jade Green,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,17587,4.6,309,LKSHARK,9870,False
-5,143888,Gold,Medium,136 mm,Lenskart Blu,LB E13529,2000,2000,non_power_reading,4686,10673,4.5,210,LKBLUCE,1344,False
-6,206972,Amber,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,37360,4.7,36,LKBLUCE,7461,False
-7,206692,Monza Red,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,7271,4.7,36,LKSHARK,421,False
-8,143890,Grey,Medium,136 mm,Lenskart Blu,LB E13529,2000,2000,non_power_reading,11206,18467,4.5,210,LKBLUCE,1555,False
-9,215929,Dark Night,Narrow,134 mm,Lenskart Hustlr,LB E14058-N,1700,1700,non_power_reading,0,78,0.0,,LKSHARK,3786,False
-10,148744,Blue,Extra Wide,142 mm,Lenskart Blu,LB E14061,1200,1200,non_power_reading,6066,15256,4.5,50,LKBLUCE,71,False
-11,150068,Transparent,Extra Wide,143 mm,Lenskart Blu,LB E14271,1200,1200,non_power_reading,1055,7338,4.1,14,LKBLUCE,349,False
-12,146460,Black,Wide,139 mm,Lenskart Blu,LB E13739,1200,1200,non_power_reading,8275,35877,4.5,149,LKBLUCE,77,False
-13,147809,Blue,Wide,140 mm,Lenskart Blu,LB E13737,1500,1500,non_power_reading,6347,17333,4.45,122,LKBLUCE,258,False
-14,151036,Black,Medium,136 mm,Lenskart Blu,LB E14453,1200,1200,non_power_reading,114,8615,4.35,42,LKBLUCE,146,False
-15,151035,Green,Medium,136 mm,Lenskart Blu,LB E14453,1200,1200,non_power_reading,131,3851,4.35,42,LKBLUCE,715,False
-16,150070,Green,Extra Wide,143 mm,Lenskart Blu,LB E14271,1200,1200,non_power_reading,134,1783,4.1,14,LKBLUCE,195,False
-17,200279,Black,Medium,135 mm,Lenskart Blu,LB E14791,1500,1500,non_power_reading,0,6214,4.7,7,LKBLUCE,389,False
-18,150158,Green,Wide,138 mm,Lenskart Blu,LB E14284,1200,1200,non_power_reading,319,3257,4.5,8,LKBLUCE,220,False
-19,146527,Grey,Medium,137 mm,Lenskart Blu,LB E13738,1200,1200,non_power_reading,2207,12679,4.45,133,LKBLUCE,143,False
-20,150067,Brown,Medium,136 mm,Lenskart Blu,LB E14270,1200,1200,non_power_reading,44,1774,4.55,16,LKBLUCE,237,False
-21,150157,Black,Extra Wide,138 mm,Lenskart Blu,LB E14284,1200,1200,non_power_reading,330,9731,4.5,8,LKBLUCE,1069,False
-22,149767,Grey,Medium,134 mm,Lenskart Blu,LB E14242,1500,1500,non_power_reading,3201,9827,4.35,38,LKBLUCE,507,False
-23,149769,Brown,Medium,134 mm,Lenskart Blu,LB E14242,1500,1500,non_power_reading,666,2310,4.35,38,LKBLUCE,493,False
-24,200281,Cream,Medium,135 mm,Lenskart Blu,LB E14791,1200,1200,non_power_reading,0,1260,4.7,7,LKBLUCE,665,False
-25,150064,Green,Medium,136 mm,Lenskart Blu,LB E14270,1200,1200,non_power_reading,123,2883,4.55,16,LKBLUCE,210,False
-26,150065,Pink,Medium,136 mm,Lenskart Blu,LB E14270,1500,1500,non_power_reading,116,4021,4.55,16,LKBLUCE,239,False
-27,200361,Green,Medium,135 mm,Lenskart Blu,LB E13738,1200,1200,non_power_reading,0,3275,4.45,133,LKBLUCE,97,False
-28,146526,Blue,Wide,140 mm,Lenskart Blu,LB E13737,1500,1500,non_power_reading,5607,44152,4.45,122,LKBLUCE,1660,False
-29,148746,Grey,Extra Wide,142 mm,Lenskart Blu,LB E14061,1500,1500,non_power_reading,4793,19127,4.5,50,LKBLUCE,793,False
-30,151506,Blue,Wide,139 mm,Lenskart Blu,LB E13740,1500,1500,non_power_reading,2083,36958,4.5,171,LKBLUCE,99,False
-31,146458,Black,Wide,140 mm,Lenskart Blu,LB E13737,1500,1500,non_power_reading,9192,50932,4.45,122,LKBLUCE,2435,False
-32,146529,Transparent,Wide,139 mm,Lenskart Blu,LB E13740,1200,1200,non_power_reading,6964,21381,4.5,171,LKBLUCE,596,False
-33,143908,Black,Medium,136 mm,Lenskart Blu,LB E13527,1500,1500,non_power_reading,9006,57483,4.45,133,LKBLUCE,168,False
-34,143912,Black,Medium,136 mm,Lenskart Blu,LB E13527,1500,1500,non_power_reading,2493,13143,4.45,133,LKBLUCE,1688,False
-35,146459,Black,Medium,137 mm,Lenskart Blu,LB E13738,1500,1500,non_power_reading,8042,59312,4.45,133,LKBLUCE,297,False
-36,143909,Black,Medium,136 mm,Lenskart Blu,LB E13527,1500,1500,non_power_reading,4254,43279,4.45,133,LKBLUCE,213,False
-37,211900,Black,Extra Narrow,128 mm,Lenskart Blu,LB E16223,2000,2000,non_power_reading,0,218,0.0,,LKBLUCE,840,False
-38,211916,Black,Medium,137 mm,Lenskart Blu,LB E16227,2000,2000,non_power_reading,0,545,0.0,,LKBLUCE,852,False
-39,211912,Silver,Extra Wide,148 mm,Lenskart Blu,LB E16225,2000,2000,non_power_reading,0,518,4.0,1,LKBLUCE,283,False
-40,211904,Blue,Medium,137 mm,Lenskart Blu,LB E16221,2000,2000,non_power_reading,0,628,0.0,,LKBLUCE,1017,False
-41,211895,Blue,Medium,136 mm,Lenskart Blu,LB E16218,2000,2000,non_power_reading,0,410,0.0,,LKBLUCE,848,False
-42,211903,Grey,Narrow,131 mm,Lenskart Blu,LB E16224,2000,2000,non_power_reading,0,422,0.0,,LKBLUCE,481,False
-43,200262,Transparent,Extra Wide,142 mm,Lenskart Blu,LB E14785,1500,1500,non_power_reading,0,7221,4.75,16,LKBLUCE,667,False
-44,211914,Blue Transparent,Wide,141 mm,Lenskart Blu,LB E16226,2000,2000,non_power_reading,0,607,0.0,,LKBLUCE,1086,False
-45,211915,Blue,Wide,141 mm,Lenskart Blu,LB E16226,2000,2000,non_power_reading,0,313,0.0,,LKBLUCE,1183,False
-46,211917,White,Medium,137 mm,Lenskart Blu,LB E16227,2000,2000,non_power_reading,0,291,0.0,,LKBLUCE,1205,False
-47,211907,Blue,Wide,140 mm,Lenskart Blu,LB E16220,2000,2000,non_power_reading,0,320,0.0,,LKBLUCE,1166,False
-48,211905,Transparent,Medium,137 mm,Lenskart Blu,LB E16221,2000,2000,non_power_reading,0,280,0.0,,LKBLUCE,1175,False
-49,211906,Grey,Medium,137 mm,Lenskart Blu,LB E16221,2000,2000,non_power_reading,0,268,0.0,,LKBLUCE,1116,False
-50,211908,Blue,Wide,140 mm,Lenskart Blu,LB E16220,2000,2000,non_power_reading,0,646,0.0,,LKBLUCE,979,False
-51,211909,Blue,Wide,140 mm,Lenskart Blu,LB E16220,2000,2000,non_power_reading,0,264,0.0,,LKBLUCE,1122,False
-52,211913,Transparent,Wide,141 mm,Lenskart Blu,LB E16226,2000,2000,non_power_reading,0,410,4.5,2,LKBLUCE,1094,False
-53,211899,Peach,Extra Narrow,129 mm,Lenskart Blu,LB E16222,2000,2000,non_power_reading,0,90,0.0,,LKBLUCE,1089,False
-54,211896,Transparent,Medium,134 mm,Lenskart Blu,LB E16219,2000,2000,non_power_reading,0,244,0.0,,LKBLUCE,953,False
-55,211901,Transparent,Extra Narrow,128 mm,Lenskart Blu,LB E16223,2000,2000,non_power_reading,0,219,0.0,,LKBLUCE,858,False
-56,211898,Green,Extra Narrow,129 mm,Lenskart Blu,LB E16222,2000,2000,non_power_reading,0,82,0.0,,LKBLUCE,1114,False
-57,211894,Pink,Medium,136 mm,Lenskart Blu,LB E16218,2000,2000,non_power_reading,0,71,0.0,,LKBLUCE,1129,False
-58,211902,Yellow,Narrow,131 mm,Lenskart Blu,LB E16224,2000,2000,non_power_reading,0,65,0.0,,LKBLUCE,704,False
-59,211911,Black,Extra Wide,148 mm,Lenskart Blu,LB E16225,2000,2000,non_power_reading,0,411,0.0,,LKBLUCE,328,False
-60,211897,Maroon,Medium,134 mm,Lenskart Blu,LB E16219,2000,2000,non_power_reading,0,71,0.0,,LKBLUCE,1148,False
-61,211893,Transparent,Medium,136 mm,Lenskart Blu,LB E16218,2000,2000,non_power_reading,0,208,0.0,,LKBLUCE,796,False
-62,149783,Black,Wide,139 mm,Lenskart Blu,LB E14255,1500,1500,non_power_reading,930,5573,4.6,30,LKBLUCE,888,False
-63,143887,Grey,Medium,136 mm,Lenskart Blu,LB E13529,2000,2000,non_power_reading,9044,15163,4.5,210,LKBLUCE,25,False
-64,148703,Tortoise,Wide,139 mm,Lenskart Blu,LB E14058,1500,1500,non_power_reading,4457,17652,4.6,309,LKSHARK,102,False
-65,148761,Grey,Medium,136 mm,Lenskart Blu,LB E14067,2000,2000,non_power_reading,4154,7607,4.5,36,LKBLUCE,776,False
-66,149171,Silver,Narrow,130 mm,Lenskart Blu,LB E14131,2000,2000,non_power_reading,9076,10710,4.5,90,LKBLUCE,4649,False
-67,149291,Black,Wide,138 mm,Lenskart Blu,LB E13533,2000,2000,non_power_reading,1229,15813,4.45,140,LKBLUCE,4938,False
-68,149172,Gold,Narrow,130 mm,Lenskart Blu,LB E14131,2000,2000,non_power_reading,6644,13056,4.5,90,LKBLUCE,964,False
-69,152162,Blue,Wide,140 mm,Lenskart Blu,LB E14452,1500,1500,non_power_reading,0,3659,4.55,14,LKBLUCE,177,False
-70,138877,Transparent,Wide,139 mm,Lenskart Blu,LB E13533,2000,2000,non_power_reading,16882,31890,4.45,140,LKBLUCE,1757,False
-71,149781,Black,Wide,139 mm,Lenskart Blu,LB E14255,1500,1500,non_power_reading,1507,9828,4.6,30,LKBLUCE,82,False
-72,149782,Black,Wide,139 mm,Lenskart Blu,LB E14255,1200,1200,non_power_reading,862,5863,4.6,30,LKBLUCE,48,False
-73,143910,Grey,Medium,136 mm,Lenskart Blu,LB E13527,1500,1500,non_power_reading,2891,10695,4.45,133,LKBLUCE,619,False
-74,200283,Blue,Medium,134 mm,Lenskart Blu,LB E14792,2000,2000,non_power_reading,0,3079,4.7,10,LKBLUCE,472,False
-75,143916,Grey,Medium,134 mm,Lenskart Blu,LB E13528,1500,1500,non_power_reading,1525,8658,4.45,117,LKBLUCE,563,False
-76,204453,Brown,Wide,139 mm,Lenskart Blu,LB E14058,1200,1200,non_power_reading,0,2187,4.6,309,LKBLUCE,30,False
-77,143892,Brown,Narrow,132 mm,Lenskart Blu,LB E13530,2000,2000,non_power_reading,1037,7676,4.65,79,LKBLUCE,1002,False
-78,149784,Green,Wide,139 mm,Lenskart Blu,LB E14255,1500,1500,non_power_reading,562,4384,4.6,30,LKBLUCE,350,False
-79,206574,Black,Narrow,132 mm,Lenskart Blu,LB E15378,1500,1500,non_power_reading,0,1991,0.0,,LKBLUCE,38,False
-80,206977,Brown,Medium,137 mm,Lenskart Blu,LB E14060,1500,1500,non_power_reading,0,824,4.65,61,LKBLUCE,405,False
-81,148705,Green,Wide,139 mm,Lenskart Blu,LB E14058,1500,1500,non_power_reading,2508,10876,4.6,309,LKSHARK,135,False
-82,204455,Transparent,Wide,139 mm,Lenskart Blu,LB E14058,1200,1200,non_power_reading,0,3679,4.6,309,LKBLUCE,70,False
-83,151494,Grey,Narrow,133 mm,Lenskart Blu,LB E14521,2000,2000,non_power_reading,0,3815,4.7,14,LKBLUCE,1,False
-84,148706,Black,Wide,138 mm,Lenskart Blu,LB E14059,1500,1500,non_power_reading,4035,11676,4.85,15,LKBLUCE,347,False
-85,207492,Orange,Medium,137 mm,Lenskart Blu,LB E14060,1500,1500,non_power_reading,0,740,4.65,61,LKBLUCE,428,False
-86,204464,Transparent,Medium,137 mm,Lenskart Blu,LB E14060,1200,1200,non_power_reading,0,2309,4.65,61,LKBLUCE,216,False
-87,206576,Pink,Narrow,132 mm,Lenskart Blu,LB E15378,1500,1500,non_power_reading,0,987,0.0,,LKBLUCE,247,False
-88,212620,Black,Extra Wide,147 mm,Lenskart Blu,LB E16409,1500,1500,non_power_reading,0,326,0.0,,LKBLUCE,174,False
-89,204460,Yellow,Medium,137 mm,Lenskart Blu,LB E14060,1200,1200,non_power_reading,0,2378,4.65,61,LKBLUCE,76,False
-90,212622,Brown,Extra Wide,146 mm,Lenskart Blu,LB E16410,1500,1500,non_power_reading,0,264,0.0,,LKBLUCE,178,False
-91,210924,Blue,Extra Wide,144 mm,Lenskart Blu,LB E16049,2000,2000,non_power_reading,0,608,0.0,,LKBLUCE,36,False
-92,148708,Red,Wide,139 mm,Lenskart Blu,LB E14059,1500,1500,non_power_reading,1156,4846,4.85,15,LKBLUCE,136,False
-93,149173,Red,Narrow,130 mm,Lenskart Blu,LB E14131,2000,2000,non_power_reading,2741,3719,4.5,90,LKBLUCE,17,False
-94,151493,Red,Narrow,133 mm,Lenskart Blu,LB E14521,2000,2000,non_power_reading,29,2082,4.7,14,LKBLUCE,984,False
-95,151161,Gold,Medium,135 mm,Lenskart Blu,LB E14483,2000,2000,non_power_reading,370,4774,4.4,19,LKBLUCE,1133,False
-96,151492,Brown,Narrow,133 mm,Lenskart Blu,LB E14521,2000,2000,non_power_reading,0,7162,4.7,14,LKBLUCE,360,False
-97,201292,Transparent,Wide,139 mm,Lenskart Blu,LB E14059,1500,1500,non_power_reading,0,3152,4.85,15,LKBLUCE,722,False
-98,204461,Brown,Medium,137 mm,Lenskart Blu,LB E14060,1200,1200,non_power_reading,0,1800,4.65,61,LKBLUCE,570,False
-99,148601,Green,Wide,138 mm,Lenskart Blu,L BE13533,2000,2000,non_power_reading,7354,16628,4.65,20,LKBLUCE,463,False
-100,204456,Green,Wide,139 mm,Lenskart Blu,LB E14058,1200,1200,non_power_reading,0,2256,4.6,309,LKBLUCE,552,False
-101,204462,Green,Medium,137 mm,Lenskart Blu,LB E14060,1200,1200,non_power_reading,0,1548,4.65,61,LKBLUCE,395,False
-102,206577,Pink,Narrow,132 mm,Lenskart Blu,LB E15378,1500,1500,non_power_reading,0,769,0.0,,LKBLUCE,430,False
-103,206573,Green,Medium,137 mm,Lenskart Blu,LB E14060,1500,1500,non_power_reading,0,916,4.65,61,LKBLUCE,328,False
-104,206975,Yellow,Medium,137 mm,Lenskart Blu,LB E14060,1500,1500,non_power_reading,0,910,4.65,61,LKBLUCE,357,False
-105,210927,Blue,Narrow,131 mm,Lenskart Blu,LB E16051,2000,2000,non_power_reading,0,395,0.0,,LKBLUCE,211,False
-106,212624,Blue,Extra Wide,142 mm,Lenskart Blu,LB E16411,1500,1500,non_power_reading,0,148,0.0,,LKBLUCE,259,False
-107,210923,Black,Extra Wide,144 mm,Lenskart Blu,LB E16049,2000,2000,non_power_reading,0,479,5.0,1,LKBLUCE,145,False
-108,210928,Black,Narrow,131 mm,Lenskart Blu,LB E16051,2000,2000,non_power_reading,0,523,0.0,,LKBLUCE,40,False
-109,212621,Grey,Extra Wide,146 mm,Lenskart Blu,LB E16410,1500,1500,non_power_reading,0,307,0.0,,LKBLUCE,151,False
-110,212619,Transparent,Extra Wide,147 mm,Lenskart Blu,LB E16409,1500,1500,non_power_reading,0,451,0.0,,LKBLUCE,40,False
-111,212623,Blue,Extra Wide,142 mm,Lenskart Blu,LB E16411,1500,1500,non_power_reading,0,463,0.0,,LKBLUCE,10,False
-112,143918,Grey,Medium,134 mm,Lenskart Blu,LB E13528,1500,1500,non_power_reading,6037,9979,4.45,117,LKBLUCE,101,False
-113,216321,Blue,Medium,139 mm,Lenskart Hustlr,LB E14058-Combo,1700,1700,non_power_reading,7121,146349,0.0,,LKSHARK,9429,False
-114,209947,Transparent,Wide,140 mm,John Jacobs,JJ E14008L,6000,5000,non_power_reading,0,165,0.0,,,116,False
-115,210939,Black,Narrow,133 mm,Lenskart Blu,LB E16059,2000,2000,non_power_reading,0,360,0.0,,LKBLUCE,53,False
-116,210943,Black,Narrow,131 mm,Lenskart Blu,LB E16060,2000,2000,non_power_reading,0,130,0.0,,LKBLUCE,291,False
-117,210934,Black,Medium,137 mm,Lenskart Blu,LB E16057,2000,2000,non_power_reading,0,291,0.0,,LKBLUCE,125,False
-118,215822,Navy Blue-Dhakad Hai,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,957,0.0,,LKSHARK,321,False
-119,213471,Greystone,Extra Wide,144 mm,Lenskart Hustlr,LB E14058-XW,1700,1700,non_power_reading,0,1134,4.0,2,LKSHARK,3068,False
-120,212974,Blue Sky,Narrow,134 mm,Lenskart Hustlr,LB E14058-N,1700,1700,non_power_reading,0,1274,0.0,,LKSHARK,2793,False
-121,212976,Jade Green,Narrow,134 mm,Lenskart Hustlr,LB E14058-N,1700,1700,non_power_reading,0,1136,0.0,,LKSHARK,2481,False
-122,210945,Tortoise,Narrow,131 mm,Lenskart Blu,LB E16061,2000,2000,non_power_reading,0,201,0.0,,LKBLUCE,271,False
-123,210948,Tortoise,Wide,139 mm,Lenskart Blu,LB E16062,2000,2000,non_power_reading,0,100,5.0,1,LKBLUCE,211,False
-124,210954,Tortoise,Wide,139 mm,Lenskart Blu,LB E16064,2000,2000,non_power_reading,0,120,0.0,,LKBLUCE,283,False
-125,210933,Blue,Medium,137 mm,Lenskart Blu,LB E16057,2000,2000,non_power_reading,0,208,0.0,,LKBLUCE,176,False
-126,210932,Transparent,Medium,137 mm,Lenskart Blu,LB E16057,2000,2000,non_power_reading,0,394,0.0,,LKBLUCE,39,False
-127,210938,Blue,Narrow,131 mm,Lenskart Blu,LB E16059,2000,2000,non_power_reading,0,218,0.0,,LKBLUCE,244,False
-128,210937,Tortoise,Wide,139 mm,Lenskart Blu,LB E16058,2000,2000,non_power_reading,0,103,0.0,,LKBLUCE,79,False
-129,210936,Brown,Wide,139 mm,Lenskart Blu,LB E16058,2000,2000,non_power_reading,0,163,0.0,,LKBLUCE,321,False
-130,210942,Blue,Narrow,131 mm,Lenskart Blu,LB E16060,2000,2000,non_power_reading,0,101,0.0,,LKBLUCE,341,False
-131,210941,Transparent,Narrow,131 mm,Lenskart Blu,LB E16060,2000,2000,non_power_reading,0,330,0.0,,LKBLUCE,99,False
-132,210940,Black,Narrow,131 mm,Lenskart Blu,LB E16059,2000,2000,non_power_reading,0,166,0.0,,LKBLUCE,254,False
-133,210075,Grey,Wide,139 mm,Lenskart Blu,LB E13740,2000,2000,non_power_reading,0,275,0.0,,LKBLUCE,294,False
-134,210074,Green,Medium,137 mm,Lenskart Blu,LB E13738,2000,2000,non_power_reading,0,59,0.0,,LKBLUCE,337,False
-135,210073,Purple,Medium,137 mm,Lenskart Blu,LB E13738,1500,1500,non_power_reading,0,525,0.0,,LKBLUCE,16,False
-136,210072,Green,Medium,137 mm,Lenskart Blu,LB E13738,2000,2000,non_power_reading,0,137,0.0,,LKBLUCE,387,False
-137,210079,Blue,Wide,140 mm,Lenskart Blu,LB E13737,2000,2000,non_power_reading,0,191,0.0,,LKBLUCE,355,False
-138,210078,Orange,Wide,139 mm,Lenskart Blu,LB E13740,1500,1500,non_power_reading,0,324,0.0,,LKBLUCE,185,False
-139,210076,Blue,Wide,139 mm,Lenskart Blu,LB E13740,2000,2000,non_power_reading,0,175,0.0,,LKBLUCE,347,False
-140,210082,Pink,Wide,140 mm,Lenskart Blu,LB E13737,1500,1500,non_power_reading,0,201,0.0,,LKBLUCE,348,False
-141,210081,Purple,Wide,140 mm,Lenskart Blu,LB E13737,1500,1500,non_power_reading,0,200,0.0,,LKBLUCE,346,False
-142,210071,Grey,Medium,137 mm,Lenskart Blu,LB E13738,2000,2000,non_power_reading,0,237,0.0,,LKBLUCE,279,False
-143,209951,Brown,Medium,134 mm,John Jacobs,JJ E10005,6000,5000,non_power_reading,0,68,0.0,,,160,False
-144,209946,Transparent,Narrow,130 mm,John Jacobs,JJ E13005,6000,5000,non_power_reading,0,63,0.0,,,157,False
-145,208961,Navy,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,15805,4.6,309,,9427,False
-146,207775,Dusky Mauve,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,789,4.6,309,LKBLUCE,54,False
-147,207491,Sand Dune,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,33551,4.7,36,LKBLUCE,2673,False
-148,206971,Military Green	,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,8681,4.7,36,LKBLUCE,14,False
-149,206973,Midnight Blue,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,25635,4.7,36,LKBLUCE,2077,False
-150,200277,Black,Narrow,133 mm,Lenskart Blu,LB E14790,1200,1200,non_power_reading,0,5295,4.4,17,LKBLUCE,9,False
-151,200287,Green,Medium,137 mm,Lenskart Blu,LB E13739,1200,1200,non_power_reading,0,4391,4.5,149,LKBLUCE,119,False
-152,200291,Black,Wide,141 mm,Lenskart Blu,LB E14061,1200,1200,non_power_reading,0,9266,4.5,50,LKBLUCE,577,False
-153,200290,Green,Extra Wide,142 mm,Lenskart Blu,LB E14061,1200,1200,non_power_reading,0,4978,4.5,50,LKBLUCE,299,False
-154,152164,Black,Wide,139 mm,Lenskart Blu,LB E14453,1200,1200,non_power_reading,0,4383,4.35,42,LKBLUCE,475,False
-155,152163,Green,Wide,139 mm,Lenskart Blu,LB E14453,1200,1200,non_power_reading,0,2637,4.35,42,LKBLUCE,646,False
-156,152161,Cream White,Wide,140 mm,Lenskart Blu,LB E14452,1200,1200,non_power_reading,0,524,4.55,14,LKBLUCE,1289,False
-157,151032,Black,Wide,140 mm,Lenskart Blu,LB E14452,1500,1500,non_power_reading,246,2659,4.55,14,LKBLUCE,504,False
-158,151033,Transparent,Wide,139 mm,Lenskart Blu,LB E14452,1200,1200,non_power_reading,1243,9250,4.55,14,LKBLUCE,250,False
-159,150160,Grey Transparent,Wide,138 mm,Lenskart Blu,LB E14284,1500,1500,non_power_reading,0,2556,4.5,8,LKBLUCE,396,False
-160,150159,Black,Wide,138 mm,Lenskart Blu,LB E14284,1500,1500,non_power_reading,0,745,4.5,8,LKBLUCE,452,False
-161,217923,Electric Green,Narrow,134 mm,Lenskart Hustlr,LB E14058-N,1700,1700,non_power_reading,0,2,0.0,,LKSHARK,674,False
-162,217921,Electric Green,Extra Wide,144 mm,Lenskart Hustlr,LB E14058-XW,1700,1700,non_power_reading,0,0,0.0,,VCEYE,496,False
-163,217443,Turquoise,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,382,0.0,,LKSHARK,2964,False
-164,217442,Turquoise,Narrow,134 mm,Lenskart Hustlr,LB E14058-N,1700,1700,non_power_reading,0,28,0.0,,LKSHARK,4226,False
-165,217444,Turquoise,Extra Wide,144 mm,Lenskart Hustlr,LB E14058-XW,1700,1700,non_power_reading,0,16,0.0,,LKSHARK,1481,False
-166,215928,Dark Night,Extra Wide,144 mm,Lenskart Hustlr,LB E14058-XW,1700,1700,non_power_reading,0,43,0.0,,LKSHARK,959,False
-167,216331,Navy,Narrow,134 mm,Lenskart Hustlr,LB E14058-N,1700,1700,non_power_reading,0,40,0.0,,VCEYE,2960,False
-168,216330,Jade Green,Extra Wide,144 mm,Lenskart Hustlr,LB E14058-XW,1700,1700,non_power_reading,0,41,0.0,,VCEYE,4456,False
-169,213461,Blue Sky,Extra Wide,144 mm,Lenskart Hustlr,LB E14058-XW,1700,1700,non_power_reading,0,1093,0.0,,LKSHARK,2360,False
-170,212975,Greystone,Narrow,134 mm,Lenskart Hustlr,LB E14058-N,1700,1700,non_power_reading,0,72,0.0,,VCEYE,2996,False
-171,210947,Pink,Wide,139 mm,Lenskart Blu,LB E16062,2000,2000,non_power_reading,0,471,0.0,,LKBLUCE,346,False
-172,210946,Pink,Narrow,131 mm,Lenskart Blu,LB E16061,2000,2000,non_power_reading,0,857,5.0,3,LKBLUCE,278,False
-173,210950,Black,Wide,139 mm,Lenskart Blu,LB E16063,2000,2000,non_power_reading,0,633,0.0,,LKBLUCE,384,False
-174,210953,Transparent,Wide,139 mm,Lenskart Blu,LB E16064,2000,2000,non_power_reading,0,319,0.0,,LKBLUCE,353,False
-175,210952,Transparent,Wide,139 mm,Lenskart Blu,LB E16063,2000,2000,non_power_reading,0,644,0.0,,LKBLUCE,340,False
-176,210931,Blue,Narrow,133 mm,Lenskart Blu,LB E16056,2000,2000,non_power_reading,0,485,0.0,,LKBLUCE,164,False
-177,210929,Pink,Narrow,133 mm,Lenskart Blu,LB E16056,2000,2000,non_power_reading,0,819,0.0,,LKBLUCE,263,False
-178,210935,Black,Wide,139 mm,Lenskart Blu,LB E16058,2000,2000,non_power_reading,0,465,0.0,,LKBLUCE,421,False
-179,210077,Pink,Wide,139 mm,Lenskart Blu,LB E13740,1500,1500,non_power_reading,0,758,0.0,,LKBLUCE,422,False
-180,212419,Silver,Narrow,131 mm,Lenskart Blu,LB E16383,2000,2000,non_power_reading,0,23,0.0,,LKBLUCE,1455,False
-181,212423,Black,Narrow,131 mm,Lenskart Blu,LB E16384,2000,2000,non_power_reading,0,84,0.0,,LKBLUCE,1387,False
-182,211891,Grey,Extra Wide,141 mm,Lenskart Blu,LB E16217,2000,2000,non_power_reading,0,2,0.0,,,903,False
-183,212037,Blue,5-8 yrs,124 mm,Hooper Computer Glasses,LK D16280,2000,2000,non_power_reading,0,37,0.0,,HOOPEREYE,220,False
-184,212042,Grey,5-8 yrs,124 mm,Hooper Computer Glasses,LK D16285,2000,2000,non_power_reading,0,19,0.0,,HOOPERKIDSCE,187,False
-185,212014,Blue,5-8 yrs,122 mm,Hooper Computer Glasses,LK D16257,2000,2000,non_power_reading,0,25,0.0,,HOOPEREYE,236,False
-186,212039,Black,5-8 yrs,120 mm,Hooper Computer Glasses,LK D16282,2000,2000,non_power_reading,0,21,0.0,,HOOPEREYE,227,False
-187,212036,Red,5-8 yrs,120 mm,Hooper Computer Glasses,LK D16279,2000,2000,non_power_reading,0,37,0.0,,HOOPEREYE,219,False
-188,212016,Black,5-8 yrs,122 mm,Hooper Computer Glasses,LK D16259,2000,2000,non_power_reading,0,9,0.0,,HOOPERKIDSCE,152,False
-189,212038,Black,5-8 yrs,120 mm,Hooper Computer Glasses,LK D16281,2000,2000,non_power_reading,0,24,0.0,,,157,False
-190,212040,Black,5-8 yrs,123 mm,Hooper Computer Glasses,LK D16283,2000,2000,non_power_reading,0,21,0.0,,HOOPERKIDSCE,141,False
-191,212041,Black,5-8 yrs,124 mm,Hooper Computer Glasses,LK D16284,2000,2000,non_power_reading,0,22,0.0,,,136,False
-192,209943,Pink Transparent,Medium,134 mm,John Jacobs,JJ E11515,6000,5000,non_power_reading,0,135,0.0,,,130,False
-193,209054,Midnight Blue,Extra Narrow,125 mm,Lenskart Hustlr,HP D15011,1700,1700,non_power_reading,0,2319,0.0,,HOOPERKIDSCE,36,False
-194,200267,Green,Wide,140 mm,Lenskart Blu,LB E14787,1200,1200,non_power_reading,0,4399,5.0,5,LKBLUCE,33,False
-195,200266,Blue,Extra Wide,143 mm,Lenskart Blu,LB E14786,1200,1200,non_power_reading,0,3748,4.25,4,LKBLUCE,49,False
-196,152361,Black,8-12 yrs,126 mm,Hooper Computer Glasses,HP D10101M,1500,1500,non_power_reading,0,139,0.0,,HOOPERKIDSCE,150,False
-197,152434,Grey,5-8 yrs,123 mm,Hooper Computer Glasses,HP D10089L,1500,1500,non_power_reading,0,1680,4.0,2,HOOPEREYE,18,False
-198,152349,Black,8-12 yrs,136 mm,Hooper Computer Glasses,HP D10095L,1500,1500,non_power_reading,0,264,0.0,,HOOPERKIDSCE,106,False
-199,152354,Black,8-12 yrs,138 mm,Hooper Computer Glasses,HP D10097L,1500,1500,non_power_reading,0,223,0.0,,HOOPERKIDSCE,130,False
-200,152463,Black,5-8 yrs,124 mm,Hooper Computer Glasses,HP D10105M,1500,1500,non_power_reading,0,439,0.0,,HOOPERKIDSCE,21,False
-201,152365,Grey,5-8 yrs,122 mm,Hooper Computer Glasses,HP D10104M,1500,1500,non_power_reading,0,458,0.0,,HOOPEREYE,29,False
-202,152351,Pink,8-12 yrs,134 mm,Hooper Computer Glasses,HP D10096L,1500,1500,non_power_reading,0,235,0.0,,HOOPERKIDSCE,147,False
-203,152462,Black,8-12 yrs,125 mm,Hooper Computer Glasses,HP D10103M,1500,1500,non_power_reading,0,438,0.0,,HOOPERKIDSCE,16,False
-204,152355,Red,8-12 yrs,130 mm,Hooper Computer Glasses,HP D10098L,1500,1500,non_power_reading,0,197,0.0,,HOOPERKIDSCE,117,False
-205,152427,Black,5-8 yrs,121 mm,Hooper Computer Glasses,HP D10087M,1500,1500,non_power_reading,0,700,0.0,,HOOPERKIDSCE,26,False
-206,152454,Black,8-12 yrs,132 mm,Hooper Computer Glasses,HP D10093L,1500,1500,non_power_reading,0,610,0.0,,HOOPERKIDSCE,3,False
-207,152378,Blue,5-8 yrs,123 mm,Hooper Computer Glasses,HP D10008M,1500,1500,non_power_reading,0,435,5.0,2,HOOPERKIDSCE,12,False
-208,152395,Purple,5-8 yrs,123 mm,Hooper Computer Glasses,HP D10016L,1500,1500,non_power_reading,0,1926,5.0,1,HOOPERKIDSCE,1,False
-209,151039,Black,Medium,137 mm,Lenskart Blu,LB E14454,1200,1200,non_power_reading,110,3911,4.55,17,LKBLUCE,160,False
-210,149765,Grey,Wide,140 mm,Lenskart Blu,LB E14241,1200,1200,non_power_reading,715,3544,4.3,23,LKBLUCE,195,False
-211,145683,Blue,5-8 yrs,123 mm,Hooper Computer Glasses,LKJ E10066CE,1500,1500,non_power_reading,639,1189,4.8,6,KIDSCE,95,False
-212,145591,Transparent,5-8 yrs,120 mm,Hooper Computer Glasses,LKJ E10064CE,1500,1500,non_power_reading,211,662,4.15,6,KIDSCE,63,False
-213,146457,Black,Medium,137 mm,Lenskart Blu,LB E13736,1200,1200,non_power_reading,8663,22180,4.4,88,LKBLUCE,96,False
-214,143287,Grey,8-12 yrs,124 mm,Hooper Computer Glasses,LKJ E10038CE,1500,1500,non_power_reading,602,367,5.0,9,KIDSCE,3,False
-215,143281,Blue,8-12 yrs,124 mm,Hooper Computer Glasses,LKJ E10036CE,1500,1500,non_power_reading,474,1132,4.6,5,KIDSCE,50,False
-216,219275,Flame,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,1,0.0,,,46,False
-217,218783,Dusty Rose,Narrow,134 mm,Lenskart Hustlr,LB E14058-N,1700,1700,non_power_reading,0,1,0.0,,LKSHARK,1126,False
-218,218782,Dusty Rose,Medium,139 mm,Lenskart Blu,LB E14058-W,1700,1700,non_power_reading,0,2,0.0,,LKBLUCE,993,False
-219,218786,Green,Extra Wide,144 mm,Lenskart Hustlr,LB E14058-XW,1700,1700,non_power_reading,0,1,0.0,,LKSHARK,495,False
-220,218785,Green,Narrow,134 mm,Lenskart Hustlr,LB E14058-N,1700,1700,non_power_reading,0,2,0.0,,LKSHARK,124,False
-221,218784,Dusty Rose,Extra Wide,144 mm,Lenskart Hustlr,LB E14058-XW,1700,1700,non_power_reading,0,1,0.0,,LKSHARK,995,False
-222,218142,Blue Sky,Medium,139 mm,Lenskart Hustlr,LA E15417-Combo,3000,3000,non_power_reading,0,160851,0.0,,COMBO-HUSTLR-POWER-EYE-3-217451,0,False
-223,218181,Blue Sky,Medium,139 mm,Lenskart Hustlr,LA E15417-Combo,3000,3000,non_power_reading,0,160851,0.0,,COMBO-HUSTLR-POWER-EYE-3-217451,0,False
-224,218095,Blue Sky,Medium,139 mm,Lenskart Hustlr,LA E15417-Combo,9500,4000,non_power_reading,0,160851,0.0,,COMBO-HUSTLR-POWER-EYE-3-217451,0,False
-225,218094,Blue Sky,Medium,139 mm,Lenskart Hustlr,LA E15417-Combo,9500,4000,non_power_reading,0,160851,0.0,,COMBO-HUSTLR-POWER-EYE-3-217451,0,False
-226,217481,Blue Sky,Medium,139 mm,Lenskart Hustlr,LA E15417-ZeroPower-Combo,9000,3000,non_power_reading,0,160851,0.0,,COMBO-HUSTLR-ZP-EYE-3-217481,0,False
-227,217341,Blue Sky,Medium,139 mm,Lenskart Hustlr,LA E15417-ZeroPower-Combo,9000,3000,non_power_reading,0,160851,0.0,,COMBO-HUSTLR-ZP-3,0,False
-228,217331,Blue Sky,Medium,139 mm,Lenskart Hustlr,LA E15417-ZeroPower-Combo,15000,3500,non_power_reading,0,160851,0.0,,,-3,False
-229,217321,Blue Sky,Medium,139 mm,Lenskart Hustlr,LA E15417-Combo,15000,5000,non_power_reading,0,160851,0.0,,COMBO-HUSTLR-POWER-EYE-5,0,False
-230,217228,Blue Sky,Medium,139 mm,Lenskart Hustlr,LA E15417-Combo,9500,4000,non_power_reading,0,160851,0.0,,,10000,False
-231,216703,Ocean Blue,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,1324,0.0,,VCEYE,55,False
-232,216706,Flamingo,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,438,0.0,,VCEYE,1550,False
-233,216704,Flamingo,Narrow,134 mm,Lenskart Hustlr,LB E14058-N,1700,1700,non_power_reading,0,5,0.0,,VCEYE,892,False
-234,216702,Ocean Blue,Extra Wide,144 mm,Lenskart Hustlr,LB E14058-XW,1700,1700,non_power_reading,0,5,0.0,,LKSHARK,72,False
-235,216701,Ocean Blue,Narrow,134 mm,Lenskart Hustlr,LB E14058-N,1700,1700,non_power_reading,0,3,0.0,,VCEYE,443,False
-236,216582,Jade Green,8-12 yrs,125 mm,Lenskart Hustlr,HP D15011,1700,1700,non_power_reading,0,612,0.0,,LKSHARK,341,False
-237,216581,Greystone,Extra Narrow,125 mm,Lenskart Hustlr,HP D15011,1700,1700,non_power_reading,0,627,0.0,,LKSHARK,365,False
-238,216580,Navy,8-12 yrs,125 mm,Lenskart Hustlr,HP D15011,1700,1700,non_power_reading,0,610,0.0,,LKSHARK,645,False
-239,216586,Navy,Extra Wide,144 mm,Lenskart Hustlr,LB E14058-XW,1700,1700,non_power_reading,0,50,0.0,,VCEYE,2157,False
-240,212418,Silver,Narrow,131 mm,Lenskart Blu,LB E16383,2000,2000,non_power_reading,0,102,0.0,,LKBLUCE,1415,False
-241,212422,Black,Narrow,131 mm,Lenskart Blu,LB E16384,2000,2000,non_power_reading,0,21,0.0,,LKBLUCE,1267,False
-242,211910,Silver,Extra Wide,148 mm,Lenskart Blu,LB E16225,2000,2000,non_power_reading,0,58,0.0,,LKBLUCE,579,False
-243,211892,Tortoise,Wide,141 mm,Lenskart Blu,LB E16217,2000,2000,non_power_reading,0,9,0.0,,LKBLUCE,1171,False
-244,209053,Dark Night,Extra Narrow,125 mm,Lenskart Hustlr,HP D15011,1700,1700,non_power_reading,0,3111,0.0,,HOOPERKIDSCE,1094,False
-245,200274,Blue,Medium,136 mm,Lenskart Blu,LB E14789,1500,1500,non_power_reading,0,4569,4.5,17,LKBLUCE,1,False
-246,200286,Transparent,Medium,137 mm,Lenskart Blu,LB E13739,1200,1200,non_power_reading,0,11025,4.5,149,LKBLUCE,588,False
-247,200284,Black,Narrow,133 mm,Lenskart Blu,LB E14792,1200,1200,non_power_reading,0,2704,4.7,10,LKBLUCE,192,False
-248,152464,Green,5-8 yrs,122 mm,Hooper Computer Glasses,HP D10105M,1500,1500,non_power_reading,0,434,0.0,,HOOPERKIDSCE,1,False
-249,152432,Grey,5-8 yrs,121 mm,Hooper Computer Glasses,HP D10088M,1500,1500,non_power_reading,0,1923,5.0,1,HOOPERKIDSCE,1,False
-250,152429,Black,5-8 yrs,121 mm,Hooper Computer Glasses,HP D10087M,1500,1500,non_power_reading,0,671,0.0,,HOOPERKIDSCE,22,False
-251,152423,Black,5-8 yrs,121 mm,Hooper Computer Glasses,HP D10064M,1500,1500,non_power_reading,0,433,0.0,,HOOPERKIDSCE,20,False
-252,152381,Blue,5-8 yrs,122 mm,Hooper Computer Glasses,HP D10009M,1500,1500,non_power_reading,0,513,0.0,,HOOPERKIDSCE,6,False
-253,152379,Black,5-8 yrs,121 mm,Hooper Computer Glasses,HP D10008M,1500,1500,non_power_reading,0,466,5.0,2,HOOPERKIDSCE,32,False
-254,152374,Red,5-8 yrs,124 mm,Hooper Computer Glasses,HP D10006L,1500,1500,non_power_reading,0,1149,4.0,1,HOOPERKIDSCE,37,False
-255,152372,Black,5-8 yrs,120 mm,Hooper Computer Glasses,HP D10004M,1500,1500,non_power_reading,0,1580,5.0,1,HOOPERKIDSCE,4,False
-256,152366,Orange,5-8 yrs,121 mm,Hooper Computer Glasses,HP D10104M,1500,1500,non_power_reading,0,428,0.0,,HOOPERKIDSCE,22,False
-257,152357,Black,8-12 yrs,134 mm,Hooper Computer Glasses,HP D10099L,1500,1500,non_power_reading,0,166,0.0,,HOOPERKIDSCE,180,False
-258,152356,Black,8-12 yrs,130 mm,Hooper Computer Glasses,HP D10098L,1500,1500,non_power_reading,0,578,0.0,,HOOPERKIDSCE,1,False
-259,152352,Grey,8-12 yrs,134 mm,Hooper Computer Glasses,HP D10096L,1500,1500,non_power_reading,0,551,0.0,,HOOPERKIDSCE,1,False
-260,152350,Blue,8-12 yrs,136 mm,Hooper Computer Glasses,HP D10095L,1500,1500,non_power_reading,0,143,0.0,,HOOPERKIDSCE,183,False
-261,151505,Blue,Medium,137 mm,Lenskart Blu,LB E13738,1500,1500,non_power_reading,1377,32454,4.45,133,LKBLUCE,1735,False
-262,151037,Blue,Medium,136 mm,Lenskart Blu,LB E14453,1200,1200,non_power_reading,51,2907,4.35,42,LKBLUCE,476,False
-263,151042,Grey,Medium,137 mm,Lenskart Blu,LB E14454,1200,1200,non_power_reading,0,4984,4.55,17,LKBLUCE,309,False
-264,151040,Green,Medium,137 mm,Lenskart Blu,LB E14454,1200,1200,non_power_reading,151,2991,4.55,17,LKBLUCE,753,False
-265,151041,Blue,Medium,137 mm,Lenskart Blu,LB E14454,1200,1200,non_power_reading,252,4181,4.55,17,LKBLUCE,288,False
-266,150155,Black,Medium,135 mm,Lenskart Blu,LB E14283,1200,1200,non_power_reading,486,4610,4.25,18,LKBLUCE,313,False
-267,150153,Green,Medium,135 mm,Lenskart Blu,LB E14283,1200,1200,non_power_reading,240,2644,4.25,18,LKBLUCE,82,False
-268,150069,Black,Extra Wide,143 mm,Lenskart Blu,LB E14271,1200,1200,non_power_reading,1049,2427,4.1,14,LKBLUCE,382,False
-269,148745,Pink,Extra Wide,142 mm,Lenskart Blu,LB E14061,1200,1200,non_power_reading,6506,8499,4.5,50,LKBLUCE,150,False
-270,147810,Yellow,Medium,137 mm,Lenskart Blu,LB E13736,1200,1200,non_power_reading,3213,9398,4.4,88,LKBLUCE,12,False
-271,146528,Grey,Wide,139 mm,Lenskart Blu,LB E13739,1500,1500,non_power_reading,6174,15373,4.5,149,LKBLUCE,44,False
-272,145686,Orange,5-8 yrs,123 mm,Hooper Computer Glasses,LKJ E10066CE,1500,1500,non_power_reading,317,433,4.8,6,KIDSCE,52,False
-273,145684,Transparent,5-8 yrs,123 mm,Hooper Computer Glasses,LKJ E10066CE,1500,1500,non_power_reading,415,945,4.8,6,KIDSCE,80,False
-274,145682,Brown,8-12 yrs,125 mm,Hooper Computer Glasses,LKJ E10065CE,1500,1500,non_power_reading,374,305,4.85,8,KIDSCE,66,False
-275,145681,Transparent,8-12 yrs,125 mm,Hooper Computer Glasses,LKJ E10065CE,1500,1500,non_power_reading,447,629,4.85,8,KIDSCE,95,False
-276,145592,Pink,5-8 yrs,120 mm,Hooper Computer Glasses,LKJ E10064CE,1500,1500,non_power_reading,421,867,4.15,6,KIDSCE,2,False
-277,143282,Pink,8-12 yrs,124 mm,Hooper Computer Glasses,LKJ E10036CE,1500,1500,non_power_reading,503,850,4.6,5,KIDSCE,66,False
-278,142670,Blue,5-8 yrs,122 mm,Hooper Computer Glasses,LKJ E10009CE,1500,1500,non_power_reading,187,156,0.0,,KIDSCE,20,False
-279,217451,Blue Sky,Medium,139 mm,Lenskart Hustlr,LA E15417-Combo,9500,4000,non_power_reading,0,160851,0.0,,COMBO-HUSTLR-POWER-EYE-3-217451,0,False
-280,208964,Caribbean,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,6391,4.6,309,LKBLUCE,3,False
-281,204454,Pink,Wide,139 mm,Lenskart Blu,LB E14058,1200,1200,non_power_reading,0,3002,4.6,309,LKBLUCE,1,False
-282,200261,Blue,Extra Wide,142 mm,Lenskart Blu,LB E14785,1500,1500,non_power_reading,0,3958,4.75,16,LKBLUCE,4,False
-283,200275,Green,Medium,136 mm,Lenskart Blu,LB E14789,1500,1500,non_power_reading,0,3541,4.5,17,LKBLUCE,1,False
-284,200285,Gold,Medium,136 mm,Lenskart Blu,LB E13736,1200,1200,non_power_reading,0,6300,4.4,88,LKBLUCE,11,False
-285,200288,Blue,Medium,137 mm,Lenskart Blu,LB E13739,1500,1500,non_power_reading,0,8481,4.5,149,LKBLUCE,10,False
-286,151031,Yellow,Wide,139 mm,Lenskart Blu,LB E14058,1200,1200,non_power_reading,840,7278,4.6,309,LKSHARK,4,False
-287,151038,Transparent,Medium,136 mm,Lenskart Blu,LB E14453,1200,1200,non_power_reading,281,6236,4.35,42,LKBLUCE,3,False
-288,149174,Black,Narrow,130 mm,Lenskart Blu,LB E14131,2000,2000,non_power_reading,13339,19771,4.5,90,LKBLUCE,19,False
-289,146461,Black,Wide,139 mm,Lenskart Blu,LB E13740,1500,1500,non_power_reading,16036,58673,4.5,171,LKBLUCE,15,False
-290,143917,Blue,Medium,134 mm,Lenskart Blu,LB E13528,1500,1500,non_power_reading,7050,19095,4.45,117,LKBLUCE,9,False
-291,143914,Black,Medium,134 mm,Lenskart Blu,LB E13528,1500,1500,non_power_reading,7998,15771,4.45,117,LKBLUCE,18,False
-292,143886,Grey,Medium,136 mm,Lenskart Blu,LB E13529,2000,2000,non_power_reading,8413,14596,4.5,210,LKBLUCE,16,False
+id,color,size,width,brand_name,model_name,market_price,lenskart_price,classification,wishlistCount,purchaseCount,avgRating,totalNoOfRatings,offerName,qty,isCashbackApplicable
+217922,Electric Green,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,4816,0.0,,VCEYE,100,False
+148704,Blue Sky,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,7121,172729,4.6,309,LKSHARK,18286,False
+148702,Dark Night,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,7533,49766,4.6,309,VCEYE,5474,False
+208966,Greystone,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,26411,4.6,309,LKSHARK,5697,False
+208962,Jade Green,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,17666,4.6,309,LKSHARK,10037,False
+143888,Gold,Medium,136 mm,Lenskart Blu,LB E13529,2000,2000,non_power_reading,4686,10691,4.5,210,LKBLUCE,590,False
+206972,Amber,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,37412,4.7,36,LKBLUCE,6665,False
+206692,Monza Red,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,7296,4.7,36,LKSHARK,401,False
+143890,Grey,Medium,136 mm,Lenskart Blu,LB E13529,2000,2000,non_power_reading,11206,18526,4.5,210,LKBLUCE,1499,False
+215929,Dark Night,Narrow,134 mm,Lenskart Hustlr,LB E14058-N,1700,1700,non_power_reading,0,84,0.0,,LKSHARK,3877,False
+148744,Blue,Extra Wide,142 mm,Lenskart Blu,LB E14061,1200,1200,non_power_reading,6066,15289,4.5,50,LKBLUCE,44,False
+146460,Black,Wide,139 mm,Lenskart Blu,LB E13739,1200,1200,non_power_reading,8275,35943,4.5,150,LKBLUCE,154,False
+147809,Blue,Wide,140 mm,Lenskart Blu,LB E13737,1500,1500,non_power_reading,6347,17358,4.45,122,LKBLUCE,239,False
+151036,Black,Medium,136 mm,Lenskart Blu,LB E14453,1200,1200,non_power_reading,114,8665,4.35,42,LKBLUCE,109,False
+151035,Green,Medium,136 mm,Lenskart Blu,LB E14453,1200,1200,non_power_reading,131,3872,4.35,42,LKBLUCE,709,False
+150070,Green,Extra Wide,143 mm,Lenskart Blu,LB E14271,1200,1200,non_power_reading,134,1785,4.1,14,LKBLUCE,195,False
+200279,Black,Medium,135 mm,Lenskart Blu,LB E14791,1500,1500,non_power_reading,0,6222,4.7,7,LKBLUCE,392,False
+150158,Green,Wide,138 mm,Lenskart Blu,LB E14284,1200,1200,non_power_reading,319,3271,4.5,8,LKBLUCE,219,False
+146527,Grey,Medium,137 mm,Lenskart Blu,LB E13738,1200,1200,non_power_reading,2207,12693,4.45,133,LKBLUCE,132,False
+150067,Brown,Medium,136 mm,Lenskart Blu,LB E14270,1200,1200,non_power_reading,44,1775,4.55,16,LKBLUCE,262,False
+150157,Black,Extra Wide,138 mm,Lenskart Blu,LB E14284,1200,1200,non_power_reading,330,9762,4.5,8,LKBLUCE,1045,False
+149767,Grey,Medium,134 mm,Lenskart Blu,LB E14242,1500,1500,non_power_reading,3201,9836,4.35,38,LKBLUCE,498,False
+149769,Brown,Medium,134 mm,Lenskart Blu,LB E14242,1500,1500,non_power_reading,666,2317,4.35,38,LKBLUCE,487,False
+200281,Cream,Medium,135 mm,Lenskart Blu,LB E14791,1200,1200,non_power_reading,0,1264,4.7,7,LKBLUCE,662,False
+150064,Green,Medium,136 mm,Lenskart Blu,LB E14270,1200,1200,non_power_reading,123,2895,4.55,16,LKBLUCE,231,False
+150065,Pink,Medium,136 mm,Lenskart Blu,LB E14270,1500,1500,non_power_reading,116,4025,4.55,16,LKBLUCE,238,False
+200361,Green,Medium,135 mm,Lenskart Blu,LB E13738,1200,1200,non_power_reading,0,3283,4.45,133,LKBLUCE,112,False
+146526,Blue,Wide,140 mm,Lenskart Blu,LB E13737,1500,1500,non_power_reading,5607,44190,4.45,122,LKBLUCE,2193,False
+148746,Grey,Extra Wide,142 mm,Lenskart Blu,LB E14061,1500,1500,non_power_reading,4793,19161,4.5,50,LKBLUCE,895,False
+151506,Blue,Wide,139 mm,Lenskart Blu,LB E13740,1500,1500,non_power_reading,2083,36985,4.5,171,LKBLUCE,63,False
+146458,Black,Wide,140 mm,Lenskart Blu,LB E13737,1500,1500,non_power_reading,9192,50977,4.45,122,LKBLUCE,3119,False
+146529,Transparent,Wide,139 mm,Lenskart Blu,LB E13740,1200,1200,non_power_reading,6964,21437,4.5,171,LKBLUCE,1369,False
+143908,Black,Medium,136 mm,Lenskart Blu,LB E13527,1500,1500,non_power_reading,9006,57516,4.45,133,LKBLUCE,131,False
+143912,Black,Medium,136 mm,Lenskart Blu,LB E13527,1500,1500,non_power_reading,2493,13177,4.45,133,LKBLUCE,925,False
+146459,Black,Medium,137 mm,Lenskart Blu,LB E13738,1500,1500,non_power_reading,8042,59333,4.45,133,LKBLUCE,1021,False
+143909,Black,Medium,136 mm,Lenskart Blu,LB E13527,1500,1500,non_power_reading,4254,43304,4.45,133,LKBLUCE,150,False
+211900,Black,Extra Narrow,128 mm,Lenskart Blu,LB E16223,2000,2000,non_power_reading,0,221,0.0,,LKBLUCE,865,False
+211904,Blue,Medium,137 mm,Lenskart Blu,LB E16221,2000,2000,non_power_reading,0,639,0.0,,LKBLUCE,1011,False
+211916,Black,Medium,137 mm,Lenskart Blu,LB E16227,2000,2000,non_power_reading,0,558,0.0,,LKBLUCE,844,False
+211912,Silver,Extra Wide,148 mm,Lenskart Blu,LB E16225,2000,2000,non_power_reading,0,523,4.0,1,LKBLUCE,280,False
+211895,Blue,Medium,136 mm,Lenskart Blu,LB E16218,2000,2000,non_power_reading,0,412,0.0,,LKBLUCE,849,False
+211903,Grey,Narrow,131 mm,Lenskart Blu,LB E16224,2000,2000,non_power_reading,0,422,0.0,,LKBLUCE,482,False
+200262,Transparent,Extra Wide,142 mm,Lenskart Blu,LB E14785,1500,1500,non_power_reading,0,7266,4.75,16,LKBLUCE,633,False
+211914,Blue Transparent,Wide,141 mm,Lenskart Blu,LB E16226,2000,2000,non_power_reading,0,627,0.0,,LKBLUCE,1070,False
+211915,Blue,Wide,141 mm,Lenskart Blu,LB E16226,2000,2000,non_power_reading,0,325,0.0,,LKBLUCE,1170,False
+211917,White,Medium,137 mm,Lenskart Blu,LB E16227,2000,2000,non_power_reading,0,317,0.0,,LKBLUCE,1178,False
+211907,Blue,Wide,140 mm,Lenskart Blu,LB E16220,2000,2000,non_power_reading,0,335,0.0,,LKBLUCE,1154,False
+211906,Grey,Medium,137 mm,Lenskart Blu,LB E16221,2000,2000,non_power_reading,0,281,0.0,,LKBLUCE,1104,False
+211905,Transparent,Medium,137 mm,Lenskart Blu,LB E16221,2000,2000,non_power_reading,0,293,0.0,,LKBLUCE,1161,False
+211908,Blue,Wide,140 mm,Lenskart Blu,LB E16220,2000,2000,non_power_reading,0,657,0.0,,LKBLUCE,968,False
+211909,Blue,Wide,140 mm,Lenskart Blu,LB E16220,2000,2000,non_power_reading,0,275,0.0,,LKBLUCE,1109,False
+211913,Transparent,Wide,141 mm,Lenskart Blu,LB E16226,2000,2000,non_power_reading,0,427,4.3,3,LKBLUCE,1078,False
+211899,Peach,Extra Narrow,129 mm,Lenskart Blu,LB E16222,2000,2000,non_power_reading,0,98,0.0,,LKBLUCE,1082,False
+211896,Transparent,Medium,134 mm,Lenskart Blu,LB E16219,2000,2000,non_power_reading,0,251,0.0,,LKBLUCE,950,False
+211901,Transparent,Extra Narrow,128 mm,Lenskart Blu,LB E16223,2000,2000,non_power_reading,0,224,0.0,,LKBLUCE,853,False
+211898,Green,Extra Narrow,129 mm,Lenskart Blu,LB E16222,2000,2000,non_power_reading,0,94,0.0,,LKBLUCE,1101,False
+211894,Pink,Medium,136 mm,Lenskart Blu,LB E16218,2000,2000,non_power_reading,0,72,0.0,,LKBLUCE,1127,False
+211902,Yellow,Narrow,131 mm,Lenskart Blu,LB E16224,2000,2000,non_power_reading,0,67,0.0,,LKBLUCE,702,False
+211911,Black,Extra Wide,148 mm,Lenskart Blu,LB E16225,2000,2000,non_power_reading,0,420,0.0,,LKBLUCE,324,False
+211893,Transparent,Medium,136 mm,Lenskart Blu,LB E16218,2000,2000,non_power_reading,0,210,0.0,,LKBLUCE,919,False
+211897,Maroon,Medium,134 mm,Lenskart Blu,LB E16219,2000,2000,non_power_reading,0,72,0.0,,LKBLUCE,1147,False
+149783,Black,Wide,139 mm,Lenskart Blu,LB E14255,1500,1500,non_power_reading,930,5581,4.6,30,LKBLUCE,880,False
+148703,Tortoise,Wide,139 mm,Lenskart Blu,LB E14058,1500,1500,non_power_reading,4457,17663,4.6,309,LKSHARK,100,False
+143886,Grey,Medium,136 mm,Lenskart Blu,LB E13529,2000,2000,non_power_reading,8413,14623,4.5,210,LKBLUCE,3,False
+148761,Grey,Medium,136 mm,Lenskart Blu,LB E14067,2000,2000,non_power_reading,4154,7612,4.5,36,LKBLUCE,769,False
+143914,Black,Medium,134 mm,Lenskart Blu,LB E13528,1500,1500,non_power_reading,7998,15794,4.45,117,LKBLUCE,4,False
+149171,Silver,Narrow,130 mm,Lenskart Blu,LB E14131,2000,2000,non_power_reading,9076,10720,4.5,90,LKBLUCE,4641,False
+149291,Black,Wide,138 mm,Lenskart Blu,LB E13533,2000,2000,non_power_reading,1229,15820,4.45,140,LKBLUCE,4192,False
+149172,Gold,Narrow,130 mm,Lenskart Blu,LB E14131,2000,2000,non_power_reading,6644,13077,4.5,90,LKBLUCE,952,False
+152162,Blue,Wide,140 mm,Lenskart Blu,LB E14452,1500,1500,non_power_reading,0,3667,4.55,14,LKBLUCE,175,False
+149782,Black,Wide,139 mm,Lenskart Blu,LB E14255,1200,1200,non_power_reading,862,5871,4.6,30,LKBLUCE,43,False
+138877,Transparent,Wide,139 mm,Lenskart Blu,LB E13533,2000,2000,non_power_reading,16882,31898,4.45,140,LKBLUCE,1009,False
+143910,Grey,Medium,136 mm,Lenskart Blu,LB E13527,1500,1500,non_power_reading,2891,10718,4.45,133,LKBLUCE,605,False
+149781,Black,Wide,139 mm,Lenskart Blu,LB E14255,1500,1500,non_power_reading,1507,9841,4.6,30,LKBLUCE,90,False
+200283,Blue,Medium,134 mm,Lenskart Blu,LB E14792,2000,2000,non_power_reading,0,3087,4.7,10,LKBLUCE,461,False
+143916,Grey,Medium,134 mm,Lenskart Blu,LB E13528,1500,1500,non_power_reading,1525,8670,4.45,117,LKBLUCE,556,False
+204453,Brown,Wide,139 mm,Lenskart Blu,LB E14058,1200,1200,non_power_reading,0,2189,4.6,309,LKBLUCE,27,False
+143892,Brown,Narrow,132 mm,Lenskart Blu,LB E13530,2000,2000,non_power_reading,1037,7679,4.65,79,LKBLUCE,1000,False
+149784,Green,Wide,139 mm,Lenskart Blu,LB E14255,1500,1500,non_power_reading,562,4387,4.6,30,LKBLUCE,349,False
+206574,Black,Narrow,132 mm,Lenskart Blu,LB E15378,1500,1500,non_power_reading,0,1999,0.0,,LKBLUCE,37,False
+204455,Transparent,Wide,139 mm,Lenskart Blu,LB E14058,1200,1200,non_power_reading,0,3684,4.6,309,LKBLUCE,66,False
+206977,Brown,Medium,137 mm,Lenskart Blu,LB E14060,1500,1500,non_power_reading,0,827,4.65,61,LKBLUCE,407,False
+148705,Green,Wide,139 mm,Lenskart Blu,LB E14058,1500,1500,non_power_reading,2508,10879,4.6,309,LKSHARK,134,False
+204464,Transparent,Medium,137 mm,Lenskart Blu,LB E14060,1200,1200,non_power_reading,0,2319,4.65,61,LKBLUCE,211,False
+206576,Pink,Narrow,132 mm,Lenskart Blu,LB E15378,1500,1500,non_power_reading,0,993,0.0,,LKBLUCE,243,False
+148706,Black,Wide,138 mm,Lenskart Blu,LB E14059,1500,1500,non_power_reading,4035,11679,4.85,15,LKBLUCE,347,False
+212620,Black,Extra Wide,147 mm,Lenskart Blu,LB E16409,1500,1500,non_power_reading,0,328,0.0,,LKBLUCE,172,False
+207492,Orange,Medium,137 mm,Lenskart Blu,LB E14060,1500,1500,non_power_reading,0,740,4.65,61,LKBLUCE,427,False
+204460,Yellow,Medium,137 mm,Lenskart Blu,LB E14060,1200,1200,non_power_reading,0,2382,4.65,61,LKBLUCE,73,False
+212622,Brown,Extra Wide,146 mm,Lenskart Blu,LB E16410,1500,1500,non_power_reading,0,266,0.0,,LKBLUCE,164,False
+210924,Blue,Extra Wide,144 mm,Lenskart Blu,LB E16049,2000,2000,non_power_reading,0,619,0.0,,LKBLUCE,32,False
+148708,Red,Wide,139 mm,Lenskart Blu,LB E14059,1500,1500,non_power_reading,1156,4847,4.85,15,LKBLUCE,135,False
+151161,Gold,Medium,135 mm,Lenskart Blu,LB E14483,2000,2000,non_power_reading,370,4783,4.4,19,LKBLUCE,1126,False
+149173,Red,Narrow,130 mm,Lenskart Blu,LB E14131,2000,2000,non_power_reading,2741,3720,4.5,90,LKBLUCE,12,False
+151493,Red,Narrow,133 mm,Lenskart Blu,LB E14521,2000,2000,non_power_reading,29,2084,4.7,14,LKBLUCE,984,False
+151492,Brown,Narrow,133 mm,Lenskart Blu,LB E14521,2000,2000,non_power_reading,0,7170,4.7,14,LKBLUCE,359,False
+201292,Transparent,Wide,139 mm,Lenskart Blu,LB E14059,1500,1500,non_power_reading,0,3154,4.85,15,LKBLUCE,719,False
+204456,Green,Wide,139 mm,Lenskart Blu,LB E14058,1200,1200,non_power_reading,0,2261,4.6,309,LKBLUCE,551,False
+204461,Brown,Medium,137 mm,Lenskart Blu,LB E14060,1200,1200,non_power_reading,0,1802,4.65,61,LKBLUCE,567,False
+148601,Green,Wide,138 mm,Lenskart Blu,L BE13533,2000,2000,non_power_reading,7354,16632,4.65,20,LKBLUCE,463,False
+206577,Pink,Narrow,132 mm,Lenskart Blu,LB E15378,1500,1500,non_power_reading,0,773,0.0,,LKBLUCE,427,False
+204462,Green,Medium,137 mm,Lenskart Blu,LB E14060,1200,1200,non_power_reading,0,1551,4.65,61,LKBLUCE,395,False
+210927,Blue,Narrow,131 mm,Lenskart Blu,LB E16051,2000,2000,non_power_reading,0,401,0.0,,LKBLUCE,210,False
+206573,Green,Medium,137 mm,Lenskart Blu,LB E14060,1500,1500,non_power_reading,0,917,4.65,61,LKBLUCE,328,False
+212624,Blue,Extra Wide,142 mm,Lenskart Blu,LB E16411,1500,1500,non_power_reading,0,149,0.0,,LKBLUCE,252,False
+206975,Yellow,Medium,137 mm,Lenskart Blu,LB E14060,1500,1500,non_power_reading,0,911,4.65,61,LKBLUCE,357,False
+210923,Black,Extra Wide,144 mm,Lenskart Blu,LB E16049,2000,2000,non_power_reading,0,484,5.0,1,LKBLUCE,141,False
+210928,Black,Narrow,131 mm,Lenskart Blu,LB E16051,2000,2000,non_power_reading,0,529,0.0,,LKBLUCE,35,False
+212621,Grey,Extra Wide,146 mm,Lenskart Blu,LB E16410,1500,1500,non_power_reading,0,308,0.0,,LKBLUCE,112,False
+212623,Blue,Extra Wide,142 mm,Lenskart Blu,LB E16411,1500,1500,non_power_reading,0,466,0.0,,LKBLUCE,6,False
+143918,Grey,Medium,134 mm,Lenskart Blu,LB E13528,1500,1500,non_power_reading,6037,10004,4.45,117,LKBLUCE,77,False
+212619,Transparent,Extra Wide,147 mm,Lenskart Blu,LB E16409,1500,1500,non_power_reading,0,454,0.0,,LKBLUCE,38,False
+216321,Blue,Medium,139 mm,Lenskart Hustlr,LB E14058-Combo,1700,1700,non_power_reading,7121,146354,0.0,,LKSHARK,9899,False
+209947,Transparent,Wide,140 mm,John Jacobs,JJ E14008L,6000,5000,non_power_reading,0,166,0.0,,,114,False
+210943,Black,Narrow,131 mm,Lenskart Blu,LB E16060,2000,2000,non_power_reading,0,131,0.0,,LKBLUCE,288,False
+210939,Black,Narrow,133 mm,Lenskart Blu,LB E16059,2000,2000,non_power_reading,0,361,0.0,,LKBLUCE,51,False
+215822,Navy Blue-Dhakad Hai,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,963,0.0,,LKSHARK,319,False
+210934,Black,Medium,137 mm,Lenskart Blu,LB E16057,2000,2000,non_power_reading,0,292,0.0,,LKBLUCE,123,False
+212974,Blue Sky,Narrow,134 mm,Lenskart Hustlr,LB E14058-N,1700,1700,non_power_reading,0,1281,0.0,,LKSHARK,2792,False
+213471,Greystone,Extra Wide,144 mm,Lenskart Hustlr,LB E14058-XW,1700,1700,non_power_reading,0,1146,4.0,2,LKSHARK,3060,False
+210945,Tortoise,Narrow,131 mm,Lenskart Blu,LB E16061,2000,2000,non_power_reading,0,202,0.0,,LKBLUCE,266,False
+212976,Jade Green,Narrow,134 mm,Lenskart Hustlr,LB E14058-N,1700,1700,non_power_reading,0,1138,0.0,,LKSHARK,2477,False
+210948,Tortoise,Wide,139 mm,Lenskart Blu,LB E16062,2000,2000,non_power_reading,0,102,5.0,1,LKBLUCE,210,False
+210954,Tortoise,Wide,139 mm,Lenskart Blu,LB E16064,2000,2000,non_power_reading,0,120,0.0,,LKBLUCE,283,False
+210938,Blue,Narrow,131 mm,Lenskart Blu,LB E16059,2000,2000,non_power_reading,0,220,0.0,,LKBLUCE,241,False
+210933,Blue,Medium,137 mm,Lenskart Blu,LB E16057,2000,2000,non_power_reading,0,209,0.0,,LKBLUCE,173,False
+210932,Transparent,Medium,137 mm,Lenskart Blu,LB E16057,2000,2000,non_power_reading,0,400,0.0,,LKBLUCE,31,False
+210942,Blue,Narrow,131 mm,Lenskart Blu,LB E16060,2000,2000,non_power_reading,0,101,0.0,,LKBLUCE,339,False
+210937,Tortoise,Wide,139 mm,Lenskart Blu,LB E16058,2000,2000,non_power_reading,0,103,0.0,,LKBLUCE,78,False
+210936,Brown,Wide,139 mm,Lenskart Blu,LB E16058,2000,2000,non_power_reading,0,164,0.0,,LKBLUCE,320,False
+210941,Transparent,Narrow,131 mm,Lenskart Blu,LB E16060,2000,2000,non_power_reading,0,330,0.0,,LKBLUCE,100,False
+210074,Green,Medium,137 mm,Lenskart Blu,LB E13738,2000,2000,non_power_reading,0,60,0.0,,LKBLUCE,335,False
+210940,Black,Narrow,131 mm,Lenskart Blu,LB E16059,2000,2000,non_power_reading,0,166,0.0,,LKBLUCE,256,False
+210073,Purple,Medium,137 mm,Lenskart Blu,LB E13738,1500,1500,non_power_reading,0,528,0.0,,LKBLUCE,14,False
+210075,Grey,Wide,139 mm,Lenskart Blu,LB E13740,2000,2000,non_power_reading,0,276,0.0,,LKBLUCE,295,False
+210072,Green,Medium,137 mm,Lenskart Blu,LB E13738,2000,2000,non_power_reading,0,138,0.0,,LKBLUCE,387,False
+210079,Blue,Wide,140 mm,Lenskart Blu,LB E13737,2000,2000,non_power_reading,0,192,0.0,,LKBLUCE,353,False
+210078,Orange,Wide,139 mm,Lenskart Blu,LB E13740,1500,1500,non_power_reading,0,325,0.0,,LKBLUCE,184,False
+210076,Blue,Wide,139 mm,Lenskart Blu,LB E13740,2000,2000,non_power_reading,0,175,0.0,,LKBLUCE,348,False
+210082,Pink,Wide,140 mm,Lenskart Blu,LB E13737,1500,1500,non_power_reading,0,201,0.0,,LKBLUCE,348,False
+209951,Brown,Medium,134 mm,John Jacobs,JJ E10005,6000,5000,non_power_reading,0,68,0.0,,,161,False
+210081,Purple,Wide,140 mm,Lenskart Blu,LB E13737,1500,1500,non_power_reading,0,200,0.0,,LKBLUCE,346,False
+210071,Grey,Medium,137 mm,Lenskart Blu,LB E13738,2000,2000,non_power_reading,0,238,0.0,,LKBLUCE,279,False
+208961,Navy,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,15895,4.6,309,,9899,False
+209946,Transparent,Narrow,130 mm,John Jacobs,JJ E13005,6000,5000,non_power_reading,0,64,0.0,,,157,False
+207491,Sand Dune,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,33612,4.7,36,LKBLUCE,1902,False
+206971,Military Green	,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,8695,4.7,36,LKBLUCE,1,False
+207775,Dusky Mauve,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,793,4.6,309,LKBLUCE,52,False
+206973,Midnight Blue,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,25667,4.7,36,LKBLUCE,1848,False
+200287,Green,Medium,137 mm,Lenskart Blu,LB E13739,1200,1200,non_power_reading,0,4405,4.5,150,LKBLUCE,112,False
+200291,Black,Wide,141 mm,Lenskart Blu,LB E14061,1200,1200,non_power_reading,0,9287,4.5,50,LKBLUCE,641,False
+152163,Green,Wide,139 mm,Lenskart Blu,LB E14453,1200,1200,non_power_reading,0,2641,4.35,42,LKBLUCE,642,False
+200290,Green,Extra Wide,142 mm,Lenskart Blu,LB E14061,1200,1200,non_power_reading,0,4984,4.5,50,LKBLUCE,298,False
+151032,Black,Wide,140 mm,Lenskart Blu,LB E14452,1500,1500,non_power_reading,246,2670,4.55,14,LKBLUCE,497,False
+152164,Black,Wide,139 mm,Lenskart Blu,LB E14453,1200,1200,non_power_reading,0,4389,4.35,42,LKBLUCE,472,False
+151033,Transparent,Wide,139 mm,Lenskart Blu,LB E14452,1200,1200,non_power_reading,1243,9268,4.55,14,LKBLUCE,242,False
+152161,Cream White,Wide,140 mm,Lenskart Blu,LB E14452,1200,1200,non_power_reading,0,527,4.55,14,LKBLUCE,1288,False
+150160,Grey Transparent,Wide,138 mm,Lenskart Blu,LB E14284,1500,1500,non_power_reading,0,2568,4.5,8,LKBLUCE,395,False
+217443,Turquoise,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,401,0.0,,LKSHARK,2739,False
+150159,Black,Wide,138 mm,Lenskart Blu,LB E14284,1500,1500,non_power_reading,0,747,4.5,8,LKBLUCE,452,False
+217923,Electric Green,Narrow,134 mm,Lenskart Hustlr,LB E14058-N,1700,1700,non_power_reading,0,2,0.0,,LKSHARK,1066,False
+217921,Electric Green,Extra Wide,144 mm,Lenskart Hustlr,LB E14058-XW,1700,1700,non_power_reading,0,1,0.0,,VCEYE,495,False
+217442,Turquoise,Narrow,134 mm,Lenskart Hustlr,LB E14058-N,1700,1700,non_power_reading,0,29,0.0,,LKSHARK,4217,False
+217444,Turquoise,Extra Wide,144 mm,Lenskart Hustlr,LB E14058-XW,1700,1700,non_power_reading,0,16,0.0,,LKSHARK,1470,False
+213461,Blue Sky,Extra Wide,144 mm,Lenskart Hustlr,LB E14058-XW,1700,1700,non_power_reading,0,1100,0.0,,LKSHARK,2356,False
+215928,Dark Night,Extra Wide,144 mm,Lenskart Hustlr,LB E14058-XW,1700,1700,non_power_reading,0,47,0.0,,LKSHARK,956,False
+216331,Navy,Narrow,134 mm,Lenskart Hustlr,LB E14058-N,1700,1700,non_power_reading,0,44,0.0,,VCEYE,3387,False
+216330,Jade Green,Extra Wide,144 mm,Lenskart Hustlr,LB E14058-XW,1700,1700,non_power_reading,0,42,0.0,,VCEYE,4455,False
+210946,Pink,Narrow,131 mm,Lenskart Blu,LB E16061,2000,2000,non_power_reading,0,866,5.0,3,LKBLUCE,272,False
+212975,Greystone,Narrow,134 mm,Lenskart Hustlr,LB E14058-N,1700,1700,non_power_reading,0,75,0.0,,VCEYE,2993,False
+210953,Transparent,Wide,139 mm,Lenskart Blu,LB E16064,2000,2000,non_power_reading,0,319,0.0,,LKBLUCE,353,False
+210947,Pink,Wide,139 mm,Lenskart Blu,LB E16062,2000,2000,non_power_reading,0,474,0.0,,LKBLUCE,345,False
+210952,Transparent,Wide,139 mm,Lenskart Blu,LB E16063,2000,2000,non_power_reading,0,648,0.0,,LKBLUCE,341,False
+210950,Black,Wide,139 mm,Lenskart Blu,LB E16063,2000,2000,non_power_reading,0,636,0.0,,LKBLUCE,380,False
+210929,Pink,Narrow,133 mm,Lenskart Blu,LB E16056,2000,2000,non_power_reading,0,829,0.0,,LKBLUCE,256,False
+210931,Blue,Narrow,133 mm,Lenskart Blu,LB E16056,2000,2000,non_power_reading,0,489,0.0,,LKBLUCE,161,False
+212419,Silver,Narrow,131 mm,Lenskart Blu,LB E16383,2000,2000,non_power_reading,0,25,0.0,,LKBLUCE,1455,False
+210935,Black,Wide,139 mm,Lenskart Blu,LB E16058,2000,2000,non_power_reading,0,474,0.0,,LKBLUCE,413,False
+210077,Pink,Wide,139 mm,Lenskart Blu,LB E13740,1500,1500,non_power_reading,0,762,0.0,,LKBLUCE,418,False
+212423,Black,Narrow,131 mm,Lenskart Blu,LB E16384,2000,2000,non_power_reading,0,90,0.0,,LKBLUCE,1388,False
+211891,Grey,Extra Wide,141 mm,Lenskart Blu,LB E16217,2000,2000,non_power_reading,0,3,0.0,,,902,False
+212036,Red,5-8 yrs,120 mm,Hooper Computer Glasses,LK D16279,2000,2000,non_power_reading,0,39,0.0,,HOOPEREYE,215,False
+212037,Blue,5-8 yrs,124 mm,Hooper Computer Glasses,LK D16280,2000,2000,non_power_reading,0,39,0.0,,HOOPEREYE,219,False
+212042,Grey,5-8 yrs,124 mm,Hooper Computer Glasses,LK D16285,2000,2000,non_power_reading,0,19,0.0,,HOOPERKIDSCE,187,False
+212014,Blue,5-8 yrs,122 mm,Hooper Computer Glasses,LK D16257,2000,2000,non_power_reading,0,25,0.0,,HOOPEREYE,236,False
+212039,Black,5-8 yrs,120 mm,Hooper Computer Glasses,LK D16282,2000,2000,non_power_reading,0,23,0.0,,HOOPEREYE,226,False
+212016,Black,5-8 yrs,122 mm,Hooper Computer Glasses,LK D16259,2000,2000,non_power_reading,0,10,0.0,,HOOPERKIDSCE,152,False
+209054,Midnight Blue,Extra Narrow,125 mm,Lenskart Hustlr,HP D15011,1700,1700,non_power_reading,0,2320,0.0,,HOOPERKIDSCE,29,False
+212038,Black,5-8 yrs,120 mm,Hooper Computer Glasses,LK D16281,2000,2000,non_power_reading,0,24,0.0,,,157,False
+200267,Green,Wide,140 mm,Lenskart Blu,LB E14787,1200,1200,non_power_reading,0,4416,5.0,5,LKBLUCE,16,False
+212040,Black,5-8 yrs,123 mm,Hooper Computer Glasses,LK D16283,2000,2000,non_power_reading,0,21,0.0,,HOOPERKIDSCE,141,False
+200266,Blue,Extra Wide,143 mm,Lenskart Blu,LB E14786,1200,1200,non_power_reading,0,3766,4.25,4,LKBLUCE,31,False
+212041,Black,5-8 yrs,124 mm,Hooper Computer Glasses,LK D16284,2000,2000,non_power_reading,0,22,0.0,,,136,False
+209943,Pink Transparent,Medium,134 mm,John Jacobs,JJ E11515,6000,5000,non_power_reading,0,135,0.0,,,131,False
+152361,Black,8-12 yrs,126 mm,Hooper Computer Glasses,HP D10101M,1500,1500,non_power_reading,0,139,0.0,,HOOPERKIDSCE,150,False
+152434,Grey,5-8 yrs,123 mm,Hooper Computer Glasses,HP D10089L,1500,1500,non_power_reading,0,1681,4.0,2,HOOPEREYE,18,False
+152351,Pink,8-12 yrs,134 mm,Hooper Computer Glasses,HP D10096L,1500,1500,non_power_reading,0,235,0.0,,HOOPERKIDSCE,146,False
+152349,Black,8-12 yrs,136 mm,Hooper Computer Glasses,HP D10095L,1500,1500,non_power_reading,0,264,0.0,,HOOPERKIDSCE,106,False
+152354,Black,8-12 yrs,138 mm,Hooper Computer Glasses,HP D10097L,1500,1500,non_power_reading,0,241,0.0,,HOOPERKIDSCE,111,False
+152355,Red,8-12 yrs,130 mm,Hooper Computer Glasses,HP D10098L,1500,1500,non_power_reading,0,213,0.0,,HOOPERKIDSCE,99,False
+152463,Black,5-8 yrs,124 mm,Hooper Computer Glasses,HP D10105M,1500,1500,non_power_reading,0,439,0.0,,HOOPERKIDSCE,21,False
+152365,Grey,5-8 yrs,122 mm,Hooper Computer Glasses,HP D10104M,1500,1500,non_power_reading,0,459,0.0,,HOOPEREYE,28,False
+152462,Black,8-12 yrs,125 mm,Hooper Computer Glasses,HP D10103M,1500,1500,non_power_reading,0,438,0.0,,HOOPERKIDSCE,16,False
+152427,Black,5-8 yrs,121 mm,Hooper Computer Glasses,HP D10087M,1500,1500,non_power_reading,0,700,0.0,,HOOPERKIDSCE,26,False
+151162,Gold,Extra Wide,136 mm,Lenskart Blu,LB E14484,2000,2000,non_power_reading,764,5354,4.5,26,LKBLUCE,1,False
+152454,Black,8-12 yrs,132 mm,Hooper Computer Glasses,HP D10093L,1500,1500,non_power_reading,0,610,0.0,,HOOPERKIDSCE,3,False
+151034,Green,Wide,140 mm,Lenskart Blu,LB E14452,1200,1200,non_power_reading,318,2027,4.55,14,LKBLUCE,1,False
+152378,Blue,5-8 yrs,123 mm,Hooper Computer Glasses,HP D10008M,1500,1500,non_power_reading,0,435,5.0,2,HOOPERKIDSCE,12,False
+152395,Purple,5-8 yrs,123 mm,Hooper Computer Glasses,HP D10016L,1500,1500,non_power_reading,0,1926,5.0,1,HOOPERKIDSCE,1,False
+146461,Black,Wide,139 mm,Lenskart Blu,LB E13740,1500,1500,non_power_reading,16036,58700,4.5,171,LKBLUCE,11,False
+151039,Black,Medium,137 mm,Lenskart Blu,LB E14454,1200,1200,non_power_reading,110,3921,4.55,17,LKBLUCE,229,False
+219275,Flame,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,1,0.0,,,40,False
+219274,Blaze,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,0,0.0,,,46,False
+149765,Grey,Wide,140 mm,Lenskart Blu,LB E14241,1200,1200,non_power_reading,715,3555,4.3,23,LKBLUCE,185,False
+145683,Blue,5-8 yrs,123 mm,Hooper Computer Glasses,LKJ E10066CE,1500,1500,non_power_reading,639,1189,4.8,6,KIDSCE,95,False
+145591,Transparent,5-8 yrs,120 mm,Hooper Computer Glasses,LKJ E10064CE,1500,1500,non_power_reading,211,662,4.15,6,KIDSCE,63,False
+218782,Dusty Rose,Medium,139 mm,Lenskart Blu,LB E14058-W,1700,1700,non_power_reading,0,4,0.0,,LKBLUCE,992,False
+143287,Grey,8-12 yrs,124 mm,Hooper Computer Glasses,LKJ E10038CE,1500,1500,non_power_reading,602,367,5.0,9,KIDSCE,3,False
+143281,Blue,8-12 yrs,124 mm,Hooper Computer Glasses,LKJ E10036CE,1500,1500,non_power_reading,474,1133,4.6,5,KIDSCE,49,False
+218783,Dusty Rose,Narrow,134 mm,Lenskart Hustlr,LB E14058-N,1700,1700,non_power_reading,0,1,0.0,,LKSHARK,1126,False
+218786,Green,Extra Wide,144 mm,Lenskart Hustlr,LB E14058-XW,1700,1700,non_power_reading,0,2,0.0,,LKSHARK,494,False
+218785,Green,Narrow,134 mm,Lenskart Hustlr,LB E14058-N,1700,1700,non_power_reading,0,3,0.0,,LKSHARK,123,False
+218784,Dusty Rose,Extra Wide,144 mm,Lenskart Hustlr,LB E14058-XW,1700,1700,non_power_reading,0,1,0.0,,LKSHARK,995,False
+218142,Blue Sky,Medium,139 mm,Lenskart Hustlr,LA E15417-Combo,3000,3000,non_power_reading,0,160851,0.0,,COMBO-HUSTLR-POWER-EYE-3-217451,0,False
+218181,Blue Sky,Medium,139 mm,Lenskart Hustlr,LA E15417-Combo,3000,3000,non_power_reading,0,160851,0.0,,COMBO-HUSTLR-POWER-EYE-3-217451,0,False
+218095,Blue Sky,Medium,139 mm,Lenskart Hustlr,LA E15417-Combo,9500,4000,non_power_reading,0,160851,0.0,,COMBO-HUSTLR-POWER-EYE-3-217451,0,False
+218094,Blue Sky,Medium,139 mm,Lenskart Hustlr,LA E15417-Combo,9500,4000,non_power_reading,0,160851,0.0,,COMBO-HUSTLR-POWER-EYE-3-217451,0,False
+216703,Ocean Blue,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,1329,0.0,,VCEYE,49,False
+217481,Blue Sky,Medium,139 mm,Lenskart Hustlr,LA E15417-ZeroPower-Combo,9000,3000,non_power_reading,0,160851,0.0,,COMBO-HUSTLR-ZP-EYE-3-217481,0,False
+216706,Flamingo,Medium,139 mm,Lenskart Hustlr,LB E14058-W,1700,1700,non_power_reading,0,442,0.0,,VCEYE,1334,False
+217341,Blue Sky,Medium,139 mm,Lenskart Hustlr,LA E15417-ZeroPower-Combo,9000,3000,non_power_reading,0,160851,0.0,,COMBO-HUSTLR-ZP-3,0,False
+217331,Blue Sky,Medium,139 mm,Lenskart Hustlr,LA E15417-ZeroPower-Combo,15000,3500,non_power_reading,0,160851,0.0,,,-3,False
+217321,Blue Sky,Medium,139 mm,Lenskart Hustlr,LA E15417-Combo,15000,5000,non_power_reading,0,160851,0.0,,COMBO-HUSTLR-POWER-EYE-5,0,False
+217228,Blue Sky,Medium,139 mm,Lenskart Hustlr,LA E15417-Combo,9500,4000,non_power_reading,0,160851,0.0,,,10000,False
+216704,Flamingo,Narrow,134 mm,Lenskart Hustlr,LB E14058-N,1700,1700,non_power_reading,0,5,0.0,,VCEYE,1328,False
+216702,Ocean Blue,Extra Wide,144 mm,Lenskart Hustlr,LB E14058-XW,1700,1700,non_power_reading,0,6,0.0,,LKSHARK,66,False
+216701,Ocean Blue,Narrow,134 mm,Lenskart Hustlr,LB E14058-N,1700,1700,non_power_reading,0,4,0.0,,VCEYE,431,False
+216582,Jade Green,8-12 yrs,125 mm,Lenskart Hustlr,HP D15011,1700,1700,non_power_reading,0,612,0.0,,LKSHARK,558,False
+211910,Silver,Extra Wide,148 mm,Lenskart Blu,LB E16225,2000,2000,non_power_reading,0,64,0.0,,LKBLUCE,584,False
+216581,Greystone,Extra Narrow,125 mm,Lenskart Hustlr,HP D15011,1700,1700,non_power_reading,0,627,0.0,,LKSHARK,363,False
+211892,Tortoise,Wide,141 mm,Lenskart Blu,LB E16217,2000,2000,non_power_reading,0,10,0.0,,LKBLUCE,1166,False
+216580,Navy,8-12 yrs,125 mm,Lenskart Hustlr,HP D15011,1700,1700,non_power_reading,0,610,0.0,,LKSHARK,875,False
+216586,Navy,Extra Wide,144 mm,Lenskart Hustlr,LB E14058-XW,1700,1700,non_power_reading,0,52,0.0,,VCEYE,2790,False
+212418,Silver,Narrow,131 mm,Lenskart Blu,LB E16383,2000,2000,non_power_reading,0,108,0.0,,LKBLUCE,1415,False
+200286,Transparent,Medium,137 mm,Lenskart Blu,LB E13739,1200,1200,non_power_reading,0,11090,4.5,150,LKBLUCE,538,False
+212422,Black,Narrow,131 mm,Lenskart Blu,LB E16384,2000,2000,non_power_reading,0,21,0.0,,LKBLUCE,1267,False
+200284,Black,Narrow,133 mm,Lenskart Blu,LB E14792,1200,1200,non_power_reading,0,2721,4.7,10,LKBLUCE,178,False
+209053,Dark Night,Extra Narrow,125 mm,Lenskart Hustlr,HP D15011,1700,1700,non_power_reading,0,3117,0.0,,HOOPERKIDSCE,1093,False
+152432,Grey,5-8 yrs,121 mm,Hooper Computer Glasses,HP D10088M,1500,1500,non_power_reading,0,1924,5.0,1,HOOPERKIDSCE,1,False
+152372,Black,5-8 yrs,120 mm,Hooper Computer Glasses,HP D10004M,1500,1500,non_power_reading,0,1580,5.0,1,HOOPERKIDSCE,2,False
+152429,Black,5-8 yrs,121 mm,Hooper Computer Glasses,HP D10087M,1500,1500,non_power_reading,0,671,0.0,,HOOPERKIDSCE,22,False
+152423,Black,5-8 yrs,121 mm,Hooper Computer Glasses,HP D10064M,1500,1500,non_power_reading,0,433,0.0,,HOOPERKIDSCE,20,False
+152381,Blue,5-8 yrs,122 mm,Hooper Computer Glasses,HP D10009M,1500,1500,non_power_reading,0,513,0.0,,HOOPERKIDSCE,6,False
+152379,Black,5-8 yrs,121 mm,Hooper Computer Glasses,HP D10008M,1500,1500,non_power_reading,0,467,5.0,2,HOOPERKIDSCE,33,False
+152374,Red,5-8 yrs,124 mm,Hooper Computer Glasses,HP D10006L,1500,1500,non_power_reading,0,1149,4.0,1,HOOPERKIDSCE,37,False
+151505,Blue,Medium,137 mm,Lenskart Blu,LB E13738,1500,1500,non_power_reading,1377,32488,4.45,133,LKBLUCE,1417,False
+152366,Orange,5-8 yrs,121 mm,Hooper Computer Glasses,HP D10104M,1500,1500,non_power_reading,0,428,0.0,,HOOPERKIDSCE,22,False
+151037,Blue,Medium,136 mm,Lenskart Blu,LB E14453,1200,1200,non_power_reading,51,2918,4.35,42,LKBLUCE,467,False
+152357,Black,8-12 yrs,134 mm,Hooper Computer Glasses,HP D10099L,1500,1500,non_power_reading,0,166,0.0,,HOOPERKIDSCE,180,False
+152356,Black,8-12 yrs,130 mm,Hooper Computer Glasses,HP D10098L,1500,1500,non_power_reading,0,578,0.0,,HOOPERKIDSCE,1,False
+151040,Green,Medium,137 mm,Lenskart Blu,LB E14454,1200,1200,non_power_reading,151,2995,4.55,17,LKBLUCE,908,False
+152352,Grey,8-12 yrs,134 mm,Hooper Computer Glasses,HP D10096L,1500,1500,non_power_reading,0,551,0.0,,HOOPERKIDSCE,1,False
+151041,Blue,Medium,137 mm,Lenskart Blu,LB E14454,1200,1200,non_power_reading,252,4192,4.55,17,LKBLUCE,275,False
+152350,Blue,8-12 yrs,136 mm,Hooper Computer Glasses,HP D10095L,1500,1500,non_power_reading,0,144,0.0,,HOOPERKIDSCE,181,False
+150153,Green,Medium,135 mm,Lenskart Blu,LB E14283,1200,1200,non_power_reading,240,2648,4.25,18,LKBLUCE,101,False
+148745,Pink,Extra Wide,142 mm,Lenskart Blu,LB E14061,1200,1200,non_power_reading,6506,8509,4.5,50,LKBLUCE,145,False
+151042,Grey,Medium,137 mm,Lenskart Blu,LB E14454,1200,1200,non_power_reading,0,4996,4.55,17,LKBLUCE,305,False
+146528,Grey,Wide,139 mm,Lenskart Blu,LB E13739,1500,1500,non_power_reading,6174,15399,4.5,150,LKBLUCE,40,False
+150155,Black,Medium,135 mm,Lenskart Blu,LB E14283,1200,1200,non_power_reading,486,4620,4.25,18,LKBLUCE,306,False
+150069,Black,Extra Wide,143 mm,Lenskart Blu,LB E14271,1200,1200,non_power_reading,1049,2437,4.1,14,LKBLUCE,379,False
+147810,Yellow,Medium,137 mm,Lenskart Blu,LB E13736,1200,1200,non_power_reading,3213,9407,4.4,88,LKBLUCE,3,False
+145686,Orange,5-8 yrs,123 mm,Hooper Computer Glasses,LKJ E10066CE,1500,1500,non_power_reading,317,434,4.8,6,KIDSCE,51,False
+145684,Transparent,5-8 yrs,123 mm,Hooper Computer Glasses,LKJ E10066CE,1500,1500,non_power_reading,415,945,4.8,6,KIDSCE,80,False
+145682,Brown,8-12 yrs,125 mm,Hooper Computer Glasses,LKJ E10065CE,1500,1500,non_power_reading,374,305,4.85,8,KIDSCE,66,False
+145681,Transparent,8-12 yrs,125 mm,Hooper Computer Glasses,LKJ E10065CE,1500,1500,non_power_reading,447,630,4.85,8,KIDSCE,93,False
+145592,Pink,5-8 yrs,120 mm,Hooper Computer Glasses,LKJ E10064CE,1500,1500,non_power_reading,421,868,4.15,6,KIDSCE,1,False
+143282,Pink,8-12 yrs,124 mm,Hooper Computer Glasses,LKJ E10036CE,1500,1500,non_power_reading,503,850,4.6,5,KIDSCE,66,False
+142670,Blue,5-8 yrs,122 mm,Hooper Computer Glasses,LKJ E10009CE,1500,1500,non_power_reading,187,157,0.0,,KIDSCE,20,False
+152385,Blue,2-5 yrs,118 mm,Hooper Computer Glasses,HP D10014M,1500,1500,non_power_reading,0,2048,5.0,2,HOOPERKIDSCE,1,False
+151031,Yellow,Wide,139 mm,Lenskart Blu,LB E14058,1200,1200,non_power_reading,840,7284,4.6,309,LKSHARK,1,False
