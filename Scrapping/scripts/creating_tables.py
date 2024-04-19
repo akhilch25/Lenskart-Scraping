@@ -225,10 +225,10 @@ def create_tables():
         conn = sqlite3.connect('../database/data.sqlite3') 
         cursor = conn.cursor() 
 
-        # create_product_table(conn, cursor)
-        # create_customer_table(conn, cursor)
-        # create_store_table(conn, cursor)
-        # create_order_table(conn, cursor)
+        create_product_table(conn, cursor)
+        create_customer_table(conn, cursor)
+        create_store_table(conn, cursor)
+        create_order_table(conn, cursor)
         create_transaction_table(conn, cursor)
 
 

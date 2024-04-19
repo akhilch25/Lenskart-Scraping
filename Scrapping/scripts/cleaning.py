@@ -129,9 +129,9 @@ def clean_transaction_data():
 def clean_data():
     print("Cleaning process is started...")
     clean_product_data()
-    # clean_store_data()
-    # clean_customer_data()
-    # clean_transaction_data()
+    clean_store_data()
+    clean_customer_data()
+    clean_transaction_data()
     print("Cleaning process is done ^_^\n")
 
 
