@@ -234,7 +234,7 @@ def create_tables():
 
         # Closing the connection 
         conn.close()
-        print("All tables are created ^_^\n")
+        print("All tables are created ^_^\n") 
 
 
     except Error as e:
