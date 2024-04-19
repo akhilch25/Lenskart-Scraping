@@ -9,10 +9,10 @@ if __name__ == '__main__':
         # scrap_data()
 
         # clean data
-        clean_data()
+        # clean_data()
 
         # create tables
-        # create_tables()
+        create_tables()
 
     except Exception as e:
         print(e)

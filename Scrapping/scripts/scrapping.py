@@ -32,14 +32,12 @@ def scrap_product_data():
         'width',
         'brand_name',
         'model_name',
-        'market_price',
         'lenskart_price',
         'classification',
         'wishlistCount',
         'purchaseCount',
         'avgRating',
         'totalNoOfRatings',
-        'offerName',
         'qty'
     ]
 
@@ -75,9 +73,7 @@ def scrap_product_data():
                     details = []
                     for item in cols:
                         try:
-                            if item == "market_price":
-                                value = product['prices'][0]['price']
-                            elif item == "lenskart_price":
+                            if item == "lenskart_price":
                                 value = product['prices'][1]['price']
                             else:
                                 value = product[item]  

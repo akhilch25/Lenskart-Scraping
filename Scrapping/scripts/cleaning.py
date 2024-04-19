@@ -27,7 +27,7 @@ def clean_product_data():
     clean_file.write(header)
     
     for row in csvreader:
-        if row[0] not in unique_id and row[8] in ['eyeframe','sunglasses','contact_lens']:
+        if row[0] not in unique_id and row[7] in ['eyeframe','sunglasses','contact_lens']:
             unique_id.add(row[0])
             clean_file.write(','.join(row) + '\n')
     
@@ -116,7 +116,6 @@ def clean_transaction_data():
     # delete clean_file if a copy exists
     if os.path.isfile("../data/clean/transaction_clean.csv"):
         os.remove("../data/clean/transaction_clean.csv")
-    print(len(transaction_df), len(set(transaction_df['transaction_id'])))
 
     # convert into csv
     transaction_df.to_csv("../data/clean/transaction_clean.csv", index=False)
@@ -129,10 +128,10 @@ def clean_transaction_data():
 
 def clean_data():
     print("Cleaning process is started...")
-    # clean_product_data()
+    clean_product_data()
     # clean_store_data()
     # clean_customer_data()
-    clean_transaction_data()
+    # clean_transaction_data()
     print("Cleaning process is done ^_^\n")
 
 

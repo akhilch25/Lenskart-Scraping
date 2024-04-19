@@ -21,17 +21,16 @@ def create_product_table(conn, cursor):
                 width VARCHAR(50),
                 brand_name VARCHAR(255),
                 model_name VARCHAR(255),
-                market_price INTEGER,
                 lenskart_price INTEGER,
                 classification VARCHAR(50),
                 wishlistCount INTEGER, 
                 purchaseCount INTEGER, 
                 avgRating REAL, 
                 totalNoOfRatings INTEGER, 
-                offerName VARCHAR(50),
                 qty INTEGER
             );"""    
     cursor.execute(table) 
+    print("product table is created ^_^")
 
     # insert data from csv file
     header = next(csvreader)
@@ -41,7 +40,7 @@ def create_product_table(conn, cursor):
         for i in range(len(row)):
             if row[i] == '':
                 row[i] = "null"
-            elif i in [1,2,3,4,5,8,13]:
+            elif i in [1,2,3,4,5,7]:
                 row[i] = "'" + row[i] + "'"
         value = ','.join(row)
         
@@ -50,7 +49,7 @@ def create_product_table(conn, cursor):
     # Commit changes in the database     
     conn.commit() 
     
-    print("product table is created ^_^")
+    print("data is inserted into product table successfully ^_^")
 
 
 
@@ -75,6 +74,7 @@ def create_customer_table(conn, cursor):
                 region VARCHAR(50)
             );"""    
     cursor.execute(table) 
+    print("customer table is created ^_^")
 
     # insert data from csv file
     header = next(csvreader)
@@ -92,7 +92,7 @@ def create_customer_table(conn, cursor):
     # Commit changes in the database     
     conn.commit() 
 
-    print("customer table is created ^_^")
+    print("data is inserted into customer table successfully ^_^")
 
 
 
@@ -114,6 +114,7 @@ def create_store_table(conn, cursor):
                 phone VARCHAR(15)
             );"""    
     cursor.execute(table) 
+    print("store table is created ^_^")
 
     # insert data from csv file
     header = next(csvreader)
@@ -132,30 +133,29 @@ def create_store_table(conn, cursor):
     # Commit changes in the database     
     conn.commit() 
     
-    print("store table is created ^_^")
+    print("data is inserted into store table successfully ^_^")
 
 
 
-# create transaction table
-def create_transaction_table(conn, cursor):
+# create order table
+def create_order_table(conn, cursor):
     # open the csv file and read data
-    print(1)
     csvreader = csv.reader(open("../data/clean/transaction_clean.csv",'r'))
 
     # drop the table if it exists
-    cursor.execute("DROP TABLE IF EXISTS transaction_data;") 
-    print(2)
-    table = """CREATE TABLE transaction_data(
-                transaction_id VARCHAR(10) PRIMARY KEY,
+    cursor.execute("DROP TABLE IF EXISTS order_table;") 
+    table = """CREATE TABLE order_table(
+                order_id VARCHAR(7) PRIMARY KEY,
                 quantity INTEGER,
                 order_date VARCHAR(10),
                 payment_method VARCHAR(20)
             );"""    
     cursor.execute(table) 
+    print("order table is created ^_^")
 
     # insert data from csv file
     header = next(csvreader)
-    header = "transaction_id,quantity,order_date,payment_method"
+    header = "order_id,quantity,order_date,payment_method"
 
     for row in csvreader:
         value = [row[1],row[5],row[6],row[7]]
@@ -166,15 +166,56 @@ def create_transaction_table(conn, cursor):
                 value[i] = '"' + row[i] + '"'
         value = ','.join(value)
         
-        cursor.execute("INSERT INTO transaction_data (" + header + ") VALUES (" + value + ");")
+        cursor.execute("INSERT INTO order_table (" + header + ") VALUES (" + value + ");")
     
     # Commit changes in the database     
     conn.commit() 
     
+    print("data is inserted into order table successfully ^_^")
+
+
+
+# create transaction table
+def create_transaction_table(conn, cursor):
+    # open the csv file and read data
+    csvreader = csv.reader(open("../data/clean/transaction_clean.csv",'r'))
+
+    # drop the table if it exists
+    cursor.execute("DROP TABLE IF EXISTS transaction_table;") 
+
+    table = """CREATE TABLE transaction_table(
+                transaction_id VARCHAR(11) PRIMARY KEY,
+                order_id VARCHAR(7),
+                customer_id VARCHAR(50),
+                product_id INTEGER,
+                store_id INTEGER,
+                FOREIGN KEY(order_id) REFERENCES order_table(order_id),
+                FOREIGN KEY(customer_id) REFERENCES customer(customer_id),
+                FOREIGN KEY(product_id) REFERENCES product(product_id),
+                FOREIGN KEY(store_id) REFERENCES store(store_id)
+            );"""    
+    cursor.execute(table) 
     print("transaction table is created ^_^")
 
+    # insert data from csv file
+    header = next(csvreader)
+    header = "order_id,transaction_id,customer_id,product_id,store_id"
 
-
+    for row in csvreader:
+        value = [row[0],row[1],row[2],row[3],row[4]]
+        for i in range(len(value)):
+            if value[i] == '':
+                value[i] = "null"
+            elif i in [0,1,2]:
+                value[i] = '"' + row[i] + '"'
+        value = ','.join(value)
+        
+        cursor.execute("INSERT INTO transaction_table (" + header + ") VALUES (" + value + ");")
+    
+    # Commit changes in the database     
+    conn.commit() 
+    
+    print("data is inserted into transaction table successfully ^_^")
 
 
 def create_tables():
@@ -187,11 +228,13 @@ def create_tables():
         # create_product_table(conn, cursor)
         # create_customer_table(conn, cursor)
         # create_store_table(conn, cursor)
+        # create_order_table(conn, cursor)
         create_transaction_table(conn, cursor)
 
 
         # Closing the connection 
         conn.close()
+        print("All tables are created ^_^\n")
 
 
     except Error as e:
