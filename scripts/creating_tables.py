@@ -145,13 +145,6 @@ def create_transaction_table(conn, cursor):
     # drop the table if it exists
     cursor.execute("DROP TABLE IF EXISTS transaction_table;") 
 
-    # table = """CREATE TABLE order_table(
-    #             order_id VARCHAR(7) PRIMARY KEY,
-    #             quantity INTEGER,
-    #             order_date VARCHAR(10),
-    #             payment_method VARCHAR(20)
-    #         );"""    
-
 
     table = """CREATE TABLE transaction_table(
                 id INTEGER PRIMARY KEY,
