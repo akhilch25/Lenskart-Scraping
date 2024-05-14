@@ -137,44 +137,6 @@ def create_store_table(conn, cursor):
 
 
 
-# create order table
-def create_order_table(conn, cursor):
-    # open the csv file and read data
-    csvreader = csv.reader(open("../data/clean/transaction_clean.csv",'r'))
-
-    # drop the table if it exists
-    cursor.execute("DROP TABLE IF EXISTS order_table;") 
-    table = """CREATE TABLE order_table(
-                order_id VARCHAR(7) PRIMARY KEY,
-                quantity INTEGER,
-                order_date VARCHAR(10),
-                payment_method VARCHAR(20)
-            );"""    
-    cursor.execute(table) 
-    print("order table is created ^_^")
-
-    # insert data from csv file
-    header = next(csvreader)
-    header = "order_id,quantity,order_date,payment_method"
-
-    for row in csvreader:
-        value = [row[1],row[5],row[6],row[7]]
-        for i in range(len(value)):
-            if value[i] == '':
-                value[i] = "null"
-            elif i in [0,2,3]:
-                value[i] = '"' + row[i] + '"'
-        value = ','.join(value)
-        
-        cursor.execute("INSERT INTO order_table (" + header + ") VALUES (" + value + ");")
-    
-    # Commit changes in the database     
-    conn.commit() 
-    
-    print("data is inserted into order table successfully ^_^")
-
-
-
 # create transaction table
 def create_transaction_table(conn, cursor):
     # open the csv file and read data
@@ -183,13 +145,24 @@ def create_transaction_table(conn, cursor):
     # drop the table if it exists
     cursor.execute("DROP TABLE IF EXISTS transaction_table;") 
 
+    # table = """CREATE TABLE order_table(
+    #             order_id VARCHAR(7) PRIMARY KEY,
+    #             quantity INTEGER,
+    #             order_date VARCHAR(10),
+    #             payment_method VARCHAR(20)
+    #         );"""    
+
+
     table = """CREATE TABLE transaction_table(
-                transaction_id VARCHAR(11) PRIMARY KEY,
+                id INTEGER PRIMARY KEY,
                 order_id VARCHAR(7),
+                transaction_id VARCHAR(11),
                 customer_id VARCHAR(50),
                 product_id INTEGER,
                 store_id INTEGER,
-                FOREIGN KEY(order_id) REFERENCES order_table(order_id),
+                quantity INTEGER,
+                order_date VARCHAR(10),
+                payment_method VARCHAR(20),
                 FOREIGN KEY(customer_id) REFERENCES customer(customer_id),
                 FOREIGN KEY(product_id) REFERENCES product(product_id),
                 FOREIGN KEY(store_id) REFERENCES store(store_id)
@@ -198,24 +171,26 @@ def create_transaction_table(conn, cursor):
     print("transaction table is created ^_^")
 
     # insert data from csv file
-    header = next(csvreader)
-    header = "order_id,transaction_id,customer_id,product_id,store_id"
-
+    header = ','.join(next(csvreader))
+    
     for row in csvreader:
-        value = [row[0],row[1],row[2],row[3],row[4]]
+        value = row.copy()
         for i in range(len(value)):
             if value[i] == '':
                 value[i] = "null"
-            elif i in [0,1,2]:
-                value[i] = '"' + row[i] + '"'
+            elif i in [1,2,3,7,8]:
+                value[i] = '"' + value[i] + '"'
         value = ','.join(value)
         
         cursor.execute("INSERT INTO transaction_table (" + header + ") VALUES (" + value + ");")
     
-    # Commit changes in the database     
+    # Commit changes in the database 
     conn.commit() 
     
     print("data is inserted into transaction table successfully ^_^")
+
+
+
 
 
 def create_tables():
@@ -228,7 +203,6 @@ def create_tables():
         create_product_table(conn, cursor)
         create_customer_table(conn, cursor)
         create_store_table(conn, cursor)
-        create_order_table(conn, cursor)
         create_transaction_table(conn, cursor)
 
 

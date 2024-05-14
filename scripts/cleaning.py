@@ -111,6 +111,8 @@ def clean_transaction_data():
             index_list.append(ind)
     
     transaction_df.drop(index=index_list, inplace=True)
+    transaction_df.reset_index()
+    transaction_df.index += 1
 
 
     # delete clean_file if a copy exists
@@ -118,7 +120,17 @@ def clean_transaction_data():
         os.remove("../data/clean/transaction_clean.csv")
 
     # convert into csv
-    transaction_df.to_csv("../data/clean/transaction_clean.csv", index=False)
+    # transaction_df.to_csv("../data/clean/transaction_clean.csv", index=False)
+    transaction_df.to_csv("../data/clean/transaction_clean.csv")
+
+    file = open("../data/clean/transaction_clean.csv",'r')
+    data = file.readlines()
+    file.close()
+
+    data[0] = 'id'+data[0]
+    file = open("../data/clean/transaction_clean.csv",'w')
+    file.writelines(data)
+    file.close()
 
     print("Transaction data cleaning completed ^_^")
 

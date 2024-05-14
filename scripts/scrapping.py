@@ -168,7 +168,7 @@ def scrap_store_data():
 def scrap_data():
     print("Data scrapping process is started...")
     scrap_product_data()
-    scrap_store_data()
+    # scrap_store_data()
     print("Data scrapping is done ^_^\n")
 
 

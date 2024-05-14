@@ -8,7 +8,7 @@ if __name__ == '__main__':
         # scrap product data and store data
         scrap_data()
 
-        # clean data
+        # # clean data
         clean_data()
 
         # create tables
